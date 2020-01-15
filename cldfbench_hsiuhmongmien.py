@@ -1,11 +1,32 @@
-import pathlib
+from collections import OrderedDict
+from pathlib import Path
 
-from cldfbench import Dataset as BaseDataset
+import attr
+from clldutils.misc import slug
+from pylexibank import Concept, Language
+from pylexibank.dataset import Dataset as MyDataset
+from pylexibank.forms import FormSpec
+from pylexibank.util import progressbar
+
+@attr.s
+class CustomConcept(Concept):
+    Gloss_in_Source = attr.ib(default=None)
+
+@attr.s
+class CustomLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    Family = attr.ib(default="Hmong-Mien")
+    DataSource = attr.ib(default=None)
+    Name_in_Source = attr.ib(default=None)
+    Location = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
-    dir = pathlib.Path(__file__).parent
+class Dataset(MyDataset):
+    dir = Path(__file__).parent
     id = "hsiuhmongmien"
+    language_class = CustomLanguage
+    concept_class = CustomConcept
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return super().cldf_specs()
@@ -19,8 +40,36 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
-
-        >>> args.writer.objects['LanguageTable'].append(...)
-        """
+        args.writer.add_sources()
+        # read in data
+        data = self.raw_dir.read_csv("NaMeo_wordlist.tsv",
+                dicts=True,
+                delimiter="\t",
+                quotechar='"')
+        # add languages
+        languages = args.writer.add_languages(
+                lookup_factory='Name')
+        # make concept dictionary
+        concepts = {}
+        for concept in self.concepts:
+            idx = concept['ID']+'_'+slug(concept['GLOSS'])
+            args.writer.add_concept(
+                ID=idx,
+                Name=concept['GLOSS'])
+            concepts[concept['GLOSS']]=idx
+        # create forms
+        for cogid_, entry in progressbar(
+            enumerate(data), desc="cldfify the data", total=len(data)
+            ):
+            cogid = cogid_ + 1
+            #print(entry)
+            for language in languages:
+                for row in args.writer.add_forms_from_value(
+                    Language_ID=languages[language],
+                    Parameter_ID=concepts[entry['Gloss']],
+                    Value=entry[language],
+                    Source=["Hsiu2015"]
+                ):
+                    args.writer.add_cognate(
+                        lexeme=row,
+                        Cognateset_ID=cogid)
