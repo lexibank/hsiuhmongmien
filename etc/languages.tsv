@@ -1,2 +1,13 @@
-ID	Family	Name	Glottocode	Latitude	Longitude	Location
-Nameo	Hmong-Mien	Na Meo	name1237	22.42	106.44	Tuyen Quang province, Vietnam
+ID	Family	Subgroup	Name	Glottocode	Latitude	Longitude	Location	Source
+Nameotuyenquang	Hmong-Mien	Hmong	Na Meo (Tuyen Quang)		21.8486731	105.4383658	Tuyen Quang province, Vietnam	Hsiu2014
+Nameocaobang	Hmong-Mien	Hmong	Na Meo (Cao Bang)	name1237	22.4820439	106.4824318	Cao Bang province, Vietnam	Edmondson
+Zhenmin	Hmong-Mien	Hmong	Zhenmin		25.5894065	109.185151	Zhenmin 振民, Gongdong Township 拱洞乡, Rongshui County, 融水县, Guangxi, China	Chen2013
+Guncen	Hmong-Mien	Hmong	Guncen		25.5137346	108.929175	Guncen 滚岑村, Dongtou 洞头乡 Rongshui County 融水县, Guangxi, China	Guangxi2008
+Yaogao	Hmong-Mien	Hmong	Yaogao		26.688723	108.401234	Yaogao 尧告, Rongshui County 融水县, Guangxi, China	Chen2013
+Datu	Hmong-Mien	Hmong	Datu		25.5466686	108.260913	Datu 大土村, Jiuqian Township 九迁乡, Libo County 荔波县, Guizhou, China	Li2000
+Yangpai	Hmong-Mien	Hmong	Yangpai		26.1808945	107.862497	Yangpai 羊排村, Yangwu Township, Danzhai County 丹寨县, Guizhou, China	Li2000
+Caidiwan	Hmong-Mien	Hmong	Caidiwan		26.5359365	109.453652	Caidiwan 菜地湾, Jingzhou County 靖州县, Hunan, China	Chen2013
+Xiangao	Hmong-Mien	Hmong	Xiang’ao		26.6739886	109.196649	Xiang'ao 香鳌, Sanjiang County 三江乡, Jinping Counrt 锦屏县, Guizhou, China	Li2000
+Heba	Hmong-Mien	Hmong	Heba		26.4342625	107.681984	Heba 河坝乡, Majiang County 麻江县, Guizhou, China	Chen2013
+Baixing	Hmong-Mien	Hmong	Baixing		26.4342625	107.681984	Baixing 白兴村, Heba 河坝乡, Majiang County 麻江县, Guizhou, China	Li2000
+Yanghao	Hmong-Mien	Hmong	Yanghao		26.688723	108.401234	Yanghao 养蒿寨, Guading Town 挂丁镇, Kaili City 凯里市, Guizhou 贵州省, China	Chen2013
