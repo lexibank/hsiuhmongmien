@@ -9,53 +9,31 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 8	eight	1705	EIGHT	2
 9	nine	1483	NINE	2
 10	ten	1515	TEN	2
-#<<<				
 11	above	1741	ABOVE	2
-11	above	1265	HIGH	2
-#>>>				
 12	afternoon	1807	AFTERNOON	2
-#<<<				
 13	you (sg.)	1215	THOU	2
-13	you (sg.)	1213	YOU	2
-#>>>				
-#<<<				
-14	he	2642	HE OR SHE	2
 14	he	1211	HE	2
-#>>>				
 15	ant	587	ANT	2
 16	ash	646	ASH	2
 17	autonym	3433	AUTONYM (OF PEOPLE)	2
-#<<<				
-18	back	1291	BACK	2
-18	back	2910	BACK (DIRECTION)	2
 18	back	2323	BACK (PART)	2
-#>>>				
 19	bamboo	1927	BAMBOO	2
-#<<<				
 20	banana	868	BANANA	2
-20	banana	399	PLANTAIN	2
-#>>>				
 21	basket	1539	BASKET	2
 22	bat	1793	BAT	2
-#<<<				
-23	bean	2574	BEAN OR PEA	2
 23	bean	832	BEAN	2
-#>>>				
 24	bear	1820	BEAR	2
 25	bed	1663	BED	2
 26	bee	665	BEE	2
 27	belly	1251	BELLY	2
-#<<<				
 28	below	1485	BELOW OR UNDER	2
-28	below	721	LOW	2
-#>>>				
 29	big	1202	BIG	2
 30	bird	937	BIRD	2
 31	bite	1403	BITE	2
 32	bitter	887	BITTER	2
 33	black	163	BLACK	2
 34	"Black Hmong
-[autonym]"		???	
+[autonym]"			
 35	blind	1653	BLIND	2
 36	blood	946	BLOOD	2
 37	blunt	379	BLUNT	2
@@ -63,268 +41,42 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 39	bone	1394	BONE	2
 40	bowl	1530	BOWL	2
 41	brain	1583	BRAIN	2
-#<<<				
 42	breast	1402	BREAST	2
-42	breast	1592	CHEST	2
-#>>>				
 43	breathe	1407	BREATHE	2
-#<<<				
-44	buffalo, water	2038	DRAGON	4
-44	buffalo, water	1287	COLD	4
 44	buffalo, water	2516	WATER BUFFALO	4
-44	buffalo, water	949	WATER LEECH	4
-44	buffalo, water	948	WATER	4
-44	buffalo, water	934	BUFFALO	4
-44	buffalo, water	3078	IRRIGATE	4
-44	buffalo, water	1401	DRINK	4
-44	buffalo, water	2798	RIVER OR WATER	4
-44	buffalo, water	1487	POUR	4
-44	buffalo, water	3362	BOILED WATER	4
-#>>>				
-#<<<				
-45	burn	141	BURN (SOMETHING)	2
-45	burn	1428	BURNING	2
 45	burn	2102	BURN	2
-#>>>				
 46	bury	1719	BURY	2
 47	butterfly	1791	BUTTERFLY	2
 48	buy	1869	BUY	2
 49	cat	1208	CAT	2
-#<<<				
-50	cattle; cow	1153	CATTLE	4
-50	cattle; cow	631	LIVESTOCK	4
-50	cattle; cow	2168	COW (CLASSIFIER)	4
-50	cattle; cow	3044	BOVINE	4
 50	cattle; cow	1007	COW	4
-#>>>				
 51	cave	1155	CAVE	2
 52	centipede	1974	CENTIPEDE	2
 53	chair	1476	CHAIR	2
 54	charcoal	1188	CHARCOAL	2
 55	cheek	1730	CHEEK	2
 56	chew	321	CHEW	2
-#<<<				
-57	chicken	2512	CHICK	2
 57	chicken	1318	CHICKEN	2
-#>>>				
-#<<<				
-58	child	1801	CHILD (DESCENDANT)	2
 58	child	2099	CHILD	2
-58	child	1304	CHILD (YOUNG HUMAN)	2
-#>>>				
 59	chili pepper	919	CHILI PEPPER	2
 60	chopstick	1987	CHOPSTICKS	2
 61	citrus fruit	1126	CITRUS FRUIT	2
-#<<<				
 62	clean	704	CLEAN	2
-62	clean	2235	CLEAN (SOMETHING)	2
-#>>>				
-#<<<				
-63	close, to	1159	FART	4
-63	close, to	1336	EAT	4
-63	close, to	1415	THINK (REFLECT)	4
-63	close, to	319	LICK	4
-63	close, to	1585	SLEEP	4
-63	close, to	1410	KNOW (SOMETHING)	4
-63	close, to	353	STRIKE	4
-63	close, to	2063	CLOSE (EYES)	4
-63	close, to	3547	CLOSE (MOUTH)	4
-63	close, to	1409	SEE	4
-63	close, to	1457	SEW	4
-63	close, to	1439	SWIM	4
-63	close, to	1440	SPIT	4
-63	close, to	1422	BE ALIVE	4
-63	close, to	1494	DIE	4
-63	close, to	1355	LAUGH	4
-63	close, to	1623	SPEAK	4
-63	close, to	1419	FEAR (BE AFRAID)	4
-63	close, to	203	MARRY	4
-63	close, to	1443	WALK	4
-63	close, to	814	DRESS UP	4
 63	close, to	1942	NEAR	4
-63	close, to	1090	BE BORN	4
-63	close, to	1046	SHUT	4
-63	close, to	2754	TOWARDS	4
-63	close, to	1421	SUCK	4
-63	close, to	695	GO	4
-63	close, to	2000	CLOVE	4
-63	close, to	1442	STAND	4
-63	close, to	1195	GIVE BIRTH	4
-63	close, to	1441	FLY (MOVE THROUGH AIR)	4
-63	close, to	1452	PUSH	4
-63	close, to	2327	BECOME SICK	4
-63	close, to	1401	DRINK	4
-63	close, to	1253	RAIN (RAINING)	4
-63	close, to	1586	SMELL (PERCEIVE)	4
-63	close, to	1460	IN	4
-63	close, to	1408	HEAR	4
-63	close, to	1447	GIVE	4
-63	close, to	291	PULL OFF (SKIN)	4
-63	close, to	1387	ARRIVE	4
-63	close, to	602	HIDE (CONCEAL)	4
-63	close, to	1446	COME	4
-63	close, to	1416	SIT	4
-63	close, to	1403	BITE	4
-63	close, to	1839	CRY	4
-#>>>				
 64	cloud	1489	CLOUD	2
 65	coin	1867	COIN	2
 66	cold (adj.)	1287	COLD	2
 67	copper	1825	COPPER	2
-#<<<				
 68	corn	506	MAIZE	2
-68	corn	605	GRAIN	2
-#>>>				
-#<<<				
-69	cough, to	1159	FART	4
-69	cough, to	1336	EAT	4
-69	cough, to	1415	THINK (REFLECT)	4
-69	cough, to	319	LICK	4
-69	cough, to	1585	SLEEP	4
-69	cough, to	1410	KNOW (SOMETHING)	4
-69	cough, to	353	STRIKE	4
-69	cough, to	1409	SEE	4
-69	cough, to	1457	SEW	4
-69	cough, to	1439	SWIM	4
-69	cough, to	1440	SPIT	4
-69	cough, to	1422	BE ALIVE	4
-69	cough, to	1494	DIE	4
-69	cough, to	1355	LAUGH	4
-69	cough, to	1623	SPEAK	4
-69	cough, to	1419	FEAR (BE AFRAID)	4
-69	cough, to	203	MARRY	4
-69	cough, to	1443	WALK	4
-69	cough, to	814	DRESS UP	4
-69	cough, to	1090	BE BORN	4
 69	cough, to	879	COUGH	4
-69	cough, to	2754	TOWARDS	4
-69	cough, to	1421	SUCK	4
-69	cough, to	695	GO	4
-69	cough, to	1442	STAND	4
-69	cough, to	1195	GIVE BIRTH	4
-69	cough, to	1441	FLY (MOVE THROUGH AIR)	4
-69	cough, to	1452	PUSH	4
-69	cough, to	2327	BECOME SICK	4
-69	cough, to	1401	DRINK	4
-69	cough, to	1253	RAIN (RAINING)	4
-69	cough, to	1586	SMELL (PERCEIVE)	4
-69	cough, to	1460	IN	4
-69	cough, to	1408	HEAR	4
-69	cough, to	1447	GIVE	4
-69	cough, to	291	PULL OFF (SKIN)	4
-69	cough, to	1387	ARRIVE	4
-69	cough, to	602	HIDE (CONCEAL)	4
-69	cough, to	1446	COME	4
-69	cough, to	1416	SIT	4
-69	cough, to	1403	BITE	4
-69	cough, to	1839	CRY	4
-#>>>				
-#<<<				
-70	cover, to	1159	FART	4
-70	cover, to	1336	EAT	4
-70	cover, to	1415	THINK (REFLECT)	4
-70	cover, to	319	LICK	4
-70	cover, to	1585	SLEEP	4
-70	cover, to	1410	KNOW (SOMETHING)	4
-70	cover, to	353	STRIKE	4
-70	cover, to	2319	LID (COVER, CAP)	4
-70	cover, to	1409	SEE	4
-70	cover, to	1457	SEW	4
-70	cover, to	1439	SWIM	4
-70	cover, to	1440	SPIT	4
-70	cover, to	1422	BE ALIVE	4
-70	cover, to	1494	DIE	4
-70	cover, to	1355	LAUGH	4
-70	cover, to	1623	SPEAK	4
-70	cover, to	1419	FEAR (BE AFRAID)	4
-70	cover, to	203	MARRY	4
-70	cover, to	1443	WALK	4
-70	cover, to	814	DRESS UP	4
-70	cover, to	1090	BE BORN	4
-70	cover, to	2754	TOWARDS	4
-70	cover, to	1421	SUCK	4
-70	cover, to	695	GO	4
-70	cover, to	1442	STAND	4
-70	cover, to	1195	GIVE BIRTH	4
-70	cover, to	1441	FLY (MOVE THROUGH AIR)	4
-70	cover, to	1452	PUSH	4
-70	cover, to	2327	BECOME SICK	4
-70	cover, to	1401	DRINK	4
-70	cover, to	1253	RAIN (RAINING)	4
-70	cover, to	1586	SMELL (PERCEIVE)	4
-70	cover, to	1460	IN	4
-70	cover, to	1408	HEAR	4
-70	cover, to	1447	GIVE	4
 70	cover, to	761	COVER	4
-70	cover, to	291	PULL OFF (SKIN)	4
-70	cover, to	1387	ARRIVE	4
-70	cover, to	602	HIDE (CONCEAL)	4
-70	cover, to	1446	COME	4
-70	cover, to	1416	SIT	4
-70	cover, to	1403	BITE	4
-70	cover, to	1839	CRY	4
-#>>>				
 71	crossbow	3193	CROSSBOW	2
-#<<<				
-72	crow (bird)	2074	CROW (VERB)	4
 72	crow (bird)	913	CROW	4
-#>>>				
 73	cry, to	1839	CRY	2
-#<<<				
-74	cut, to	1159	FART	4
-74	cut, to	1336	EAT	4
 74	cut, to	1432	CUT	4
-74	cut, to	1415	THINK (REFLECT)	4
-74	cut, to	319	LICK	4
-74	cut, to	1585	SLEEP	4
-74	cut, to	1410	KNOW (SOMETHING)	4
-74	cut, to	353	STRIKE	4
-74	cut, to	1409	SEE	4
-74	cut, to	1457	SEW	4
-74	cut, to	1439	SWIM	4
-74	cut, to	1440	SPIT	4
-74	cut, to	1422	BE ALIVE	4
-74	cut, to	1494	DIE	4
-74	cut, to	1355	LAUGH	4
-74	cut, to	1623	SPEAK	4
-74	cut, to	1419	FEAR (BE AFRAID)	4
-74	cut, to	190	MOW	4
-74	cut, to	203	MARRY	4
-74	cut, to	1437	SPLIT	4
-74	cut, to	1443	WALK	4
-74	cut, to	814	DRESS UP	4
-74	cut, to	1090	BE BORN	4
-74	cut, to	2754	TOWARDS	4
-74	cut, to	1421	SUCK	4
-74	cut, to	695	GO	4
-74	cut, to	3151	CUT (WITH AXE)	4
-74	cut, to	1442	STAND	4
-74	cut, to	1195	GIVE BIRTH	4
-74	cut, to	2156	CUT (WITH KNIFE)	4
-74	cut, to	1441	FLY (MOVE THROUGH AIR)	4
-74	cut, to	1452	PUSH	4
-74	cut, to	2327	BECOME SICK	4
-74	cut, to	1401	DRINK	4
-74	cut, to	1253	RAIN (RAINING)	4
-74	cut, to	2155	CUT (WITH SCISSORS)	4
-74	cut, to	1586	SMELL (PERCEIVE)	4
-74	cut, to	1460	IN	4
-74	cut, to	1408	HEAR	4
-74	cut, to	1447	GIVE	4
-74	cut, to	291	PULL OFF (SKIN)	4
-74	cut, to	1387	ARRIVE	4
-74	cut, to	602	HIDE (CONCEAL)	4
-74	cut, to	1446	COME	4
-74	cut, to	1416	SIT	4
-74	cut, to	1403	BITE	4
-74	cut, to	1839	CRY	4
-#>>>				
 75	dark	706	DARK	2
 76	daughter	1357	DAUGHTER	2
-#<<<				
-77	day	1260	DAY (24 HOURS)	2
 77	day	1225	DAY (NOT NIGHT)	2
-#>>>				
 78	deaf	996	DEAF	2
 79	deer	1936	DEER	2
 80	dew	1977	DEW	2
@@ -334,55 +86,29 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 84	dog	2009	DOG	2
 85	door	1567	DOOR	2
 86	dove	1853	DOVE	2
-#<<<				
 87	dream	2374	DREAM	2
-87	dream	2455	DREAMING OR DREAM	2
-87	dream	1920	DREAM (SOMETHING)	2
-#>>>				
-88	drink water		???	
-#<<<				
+88	drink water			
 89	dry	1398	DRY	2
-89	dry	1786	DRY UP	2
-#>>>				
 90	duck	1360	DUCK	2
 91	dust	2	DUST	2
 92	ear	1247	EAR	2
 93	eat	1336	EAT	2
-94	eat rice		???	
+94	eat rice			
 95	egg	744	EGG	2
 96	elbow	981	ELBOW	2
 97	embers	67	EMBERS	2
 98	evening	1629	EVENING	2
 99	eye	1248	EYE	2
 100	face	1560	FACE	2
-#<<<				
-101	fall	2894	TUMBLE (FALL DOWN)	2
 101	fall	1280	FALL	2
-#>>>				
 102	family	194	FAMILY	2
 103	far	1406	FAR	2
-#<<<				
-104	fat	323	FAT (ORGANIC SUBSTANCE)	2
-104	fat	1688	FATE	2
-104	fat	1279	FAT (OBESE)	2
-104	fat	2555	OIL (FROM PLANTS)	2
-104	fat	2449	FAT (OF MEAT AND FOOD)	2
 104	fat	1282	FAT (FROM ANIMALS)	2
-#>>>				
-#<<<				
 105	fear	1419	FEAR (BE AFRAID)	2
-105	fear	781	FEAR (FRIGHT)	2
-#>>>				
-#<<<				
 106	field	212	FIELD	2
-106	field	140	PADDY FIELD	2
-#>>>				
 107	fire	221	FIRE	2
 108	firewood	10	FIREWOOD	2
-#<<<				
 109	fish	227	FISH	2
-109	fish	2638	FISHING	2
-#>>>				
 110	floor	1632	FLOOR	2
 111	flower	239	FLOWER	2
 112	fly (insect)	1504	FLY (INSECT)	2
@@ -393,10 +119,7 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 117	frog	503	FROG	2
 118	fruit	1507	FRUIT	2
 119	full	1429	FULL	2
-#<<<				
 120	ghost	1175	GHOST	2
-120	ghost	53	SPIRIT	2
-#>>>				
 121	gold	1369	GOLD	2
 122	good	1035	GOOD	2
 123	grass	606	GRASS	2
@@ -404,32 +127,8 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 125	green	1425	GREEN	2
 126	grow	479	GROW	2
 127	gums	139	GUMS	2
-#<<<				
 128	hair, body	189	HAIR (BODY)	4
-128	hair, body	2648	HAIR (HEAD)	4
-128	hair, body	580	FUR	4
-128	hair, body	2381	FEATHER OR FUR OR HAIR	4
-128	hair, body	2107	HAIR OR FOREHEAD	4
-128	hair, body	2678	HAIR OR FUR	4
-128	hair, body	1040	HAIR	4
-128	hair, body	1201	FEATHER	4
-128	hair, body	1480	BODY	4
-128	hair, body	2151	COARSE	4
-128	hair, body	2155	CUT (WITH SCISSORS)	4
-#>>>				
-#<<<				
-129	hair, head	189	HAIR (BODY)	4
 129	hair, head	2648	HAIR (HEAD)	4
-129	hair, head	580	FUR	4
-129	hair, head	1256	HEAD	4
-129	hair, head	2381	FEATHER OR FUR OR HAIR	4
-129	hair, head	2107	HAIR OR FOREHEAD	4
-129	hair, head	2678	HAIR OR FUR	4
-129	hair, head	1201	FEATHER	4
-129	hair, head	1040	HAIR	4
-129	hair, head	2151	COARSE	4
-129	hair, head	2155	CUT (WITH SCISSORS)	4
-#>>>				
 130	happy	1495	HAPPY	2
 131	hat	771	HAT	2
 132	hay	342	HAY	2
@@ -438,186 +137,41 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 135	heart	1223	HEART	2
 136	heavy	1210	HEAVY	2
 137	hen	1514	HEN	2
-#<<<				
-138	hide	2485	HIDE (ONESELF)	2
-138	hide	602	HIDE (CONCEAL)	2
 138	hide	2486	HIDE	2
-#>>>				
-#<<<				
 139	hit	1433	HIT	2
-139	hit	3309	STRIKE (SOMETHING)	2
-139	hit	353	STRIKE	2
-#>>>				
 140	horse	615	HORSE	2
-#<<<				
-141	hot	2272	HOT OR WARM	2
 141	hot	1286	HOT	2
-#>>>				
 142	house	1252	HOUSE	2
-#<<<				
-143	human, person	516	PERSON (CLASSIFIER)	4
-143	human, person	1123	PREGNANT	4
 143	human, person	683	PERSON	4
-143	human, person	3450	HOW MANY PIECES	4
-143	human, person	2645	MAN OR PERSON	4
-143	human, person	1211	HE	4
-143	human, person	856	HIRE	4
-143	human, person	3416	EVERY (EACH)	4
-143	human, person	800	THIGH	4
-143	human, person	2661	PEOPLE OR PERSON	4
-#>>>				
-#<<<				
-144	hunt, to	1159	FART	4
-144	hunt, to	1336	EAT	4
-144	hunt, to	1415	THINK (REFLECT)	4
-144	hunt, to	319	LICK	4
-144	hunt, to	1585	SLEEP	4
-144	hunt, to	1410	KNOW (SOMETHING)	4
-144	hunt, to	353	STRIKE	4
-144	hunt, to	1409	SEE	4
-144	hunt, to	1457	SEW	4
-144	hunt, to	1439	SWIM	4
-144	hunt, to	1440	SPIT	4
-144	hunt, to	1422	BE ALIVE	4
-144	hunt, to	1494	DIE	4
-144	hunt, to	1355	LAUGH	4
-144	hunt, to	1623	SPEAK	4
-144	hunt, to	1419	FEAR (BE AFRAID)	4
-144	hunt, to	203	MARRY	4
-144	hunt, to	1443	WALK	4
-144	hunt, to	814	DRESS UP	4
-144	hunt, to	1090	BE BORN	4
-144	hunt, to	2754	TOWARDS	4
-144	hunt, to	1421	SUCK	4
-144	hunt, to	695	GO	4
 144	hunt, to	1435	HUNT	4
-144	hunt, to	1442	STAND	4
-144	hunt, to	1195	GIVE BIRTH	4
-144	hunt, to	1441	FLY (MOVE THROUGH AIR)	4
-144	hunt, to	1452	PUSH	4
-144	hunt, to	2327	BECOME SICK	4
-144	hunt, to	1401	DRINK	4
-144	hunt, to	1253	RAIN (RAINING)	4
-144	hunt, to	1586	SMELL (PERCEIVE)	4
-144	hunt, to	1460	IN	4
-144	hunt, to	1408	HEAR	4
-144	hunt, to	1447	GIVE	4
-144	hunt, to	291	PULL OFF (SKIN)	4
-144	hunt, to	1387	ARRIVE	4
-144	hunt, to	602	HIDE (CONCEAL)	4
-144	hunt, to	1446	COME	4
-144	hunt, to	1416	SIT	4
-144	hunt, to	1403	BITE	4
-144	hunt, to	1839	CRY	4
-#>>>				
 145	husband	1200	HUSBAND	2
 146	I	1209	I	2
 147	insect	620	INSECT	2
 148	intestines	1991	INTESTINES	2
-#<<<				
 149	iron	621	IRON	2
-149	iron	3118	IRON (CLOTHES)	2
-#>>>				
 150	jaw	798	JAW	2
 151	kill	1417	KILL	2
 152	knee	1371	KNEE	2
 153	knife	1352	KNIFE	2
 154	know	1410	KNOW (SOMETHING)	2
 155	laugh	1355	LAUGH	2
-#<<<				
 156	leaf	628	LEAF	2
-156	leaf	2250	LEAF (LEAFLIKE OBJECT)	2
-#>>>				
-#<<<				
-157	left	1752	LEAVE	2
 157	left	244	LEFT	2
-157	left	2182	LEFT HAND	2
-#>>>				
 158	leg	1297	LEG	2
 159	lie down	215	LIE DOWN	2
-#<<<				
 160	light	737	LIGHT (IGNITE)	2
-160	light	630	LIGHT (RADIATION)	2
-160	light	1052	LIGHT (WEIGHT)	2
-160	light	679	BRIGHT	2
-#>>>				
 161	lightning	1654	LIGHTNING	2
 162	light (not heavy)	1052	LIGHT (WEIGHT)	2
 163	lip	478	LIP	2
 164	live, to	1422	BE ALIVE	2
 165	liver	1224	LIVER	2
-#<<<				
 166	long	1203	LONG	2
-166	long	3473	LONG (FOR SOMETHING)	2
-166	long	418	FOR A LONG TIME	2
-#>>>				
-#<<<				
-167	look, to	1159	FART	4
-167	look, to	1336	EAT	4
-167	look, to	1415	THINK (REFLECT)	4
-167	look, to	319	LICK	4
-167	look, to	1585	SLEEP	4
-167	look, to	1410	KNOW (SOMETHING)	4
-167	look, to	353	STRIKE	4
-167	look, to	1409	SEE	4
-167	look, to	1457	SEW	4
-167	look, to	1439	SWIM	4
-167	look, to	1440	SPIT	4
-167	look, to	1017	APPEARANCE	4
-167	look, to	1422	BE ALIVE	4
-167	look, to	1494	DIE	4
-167	look, to	1355	LAUGH	4
-167	look, to	1623	SPEAK	4
-167	look, to	1419	FEAR (BE AFRAID)	4
-167	look, to	203	MARRY	4
-167	look, to	1443	WALK	4
-167	look, to	814	DRESS UP	4
-167	look, to	1090	BE BORN	4
 167	look, to	1819	LOOK	4
-167	look, to	2754	TOWARDS	4
-167	look, to	1421	SUCK	4
-167	look, to	695	GO	4
-167	look, to	1442	STAND	4
-167	look, to	1195	GIVE BIRTH	4
-167	look, to	1441	FLY (MOVE THROUGH AIR)	4
-167	look, to	1452	PUSH	4
-167	look, to	2327	BECOME SICK	4
-167	look, to	1401	DRINK	4
-167	look, to	1253	RAIN (RAINING)	4
-167	look, to	1586	SMELL (PERCEIVE)	4
-167	look, to	1460	IN	4
-167	look, to	1408	HEAR	4
-167	look, to	1447	GIVE	4
-167	look, to	291	PULL OFF (SKIN)	4
-167	look, to	1387	ARRIVE	4
-167	look, to	602	HIDE (CONCEAL)	4
-167	look, to	1446	COME	4
-167	look, to	1416	SIT	4
-167	look, to	1403	BITE	4
-167	look, to	1839	CRY	4
-#>>>				
-#<<<				
-168	louse, body	310	HEAD LOUSE	4
-168	louse, body	1480	BODY	4
-168	louse, body	2280	LOUSE OR NIT	4
 168	louse, body	1392	LOUSE	4
-#>>>				
-#<<<				
 169	louse, head	310	HEAD LOUSE	4
-169	louse, head	1256	HEAD	4
-169	louse, head	2280	LOUSE OR NIT	4
-169	louse, head	1392	LOUSE	4
-#>>>				
-#<<<				
 170	male	1553	MALE	2
-170	male	2106	MALE PERSON	2
-170	male	2261	MALE (OF PERSON)	2
-#>>>				
 171	market	633	MARKET	2
-#<<<				
-172	meat	2615	FLESH OR MEAT	2
 172	meat	634	MEAT	2
-#>>>				
 173	midday	12	MIDDAY	2
 174	millet	931	MILLET	2
 175	money	1559	MONEY	2
@@ -625,19 +179,13 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 177	month	1370	MONTH	2
 178	moon	1313	MOON	2
 179	morning	1339	MORNING	2
-#<<<				
-180	mortar	1731	MORTAR BINDER	2
-180	mortar	224	MORTAR CRUSHER	2
-#>>>				
+180	mortar			2
 181	mosquito	1509	MOSQUITO	2
 182	mountain	639	MOUNTAIN	2
 183	mouth	674	MOUTH	2
 184	mud	640	MUD	2
 185	mushroom	641	MUSHROOM	2
-#<<<				
-186	name	180	CALL BY NAME	2
 186	name	1405	NAME	2
-#>>>				
 187	narrow	1267	NARROW	2
 188	navel	1838	NAVEL	2
 189	near	1942	NEAR	2
@@ -646,193 +194,31 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 192	new	1231	NEW	2
 193	night	1233	NIGHT	2
 194	nose	1221	NOSE	2
-#<<<				
-195	oil	2556	OIL (HYDROPHOBIC LIQUID)	2
 195	oil	1484	OIL (ORGANIC SUBSTANCE)	2
-#>>>				
-#<<<				
-196	old (cu)	2112	OLD (AGED)	4
-196	old (cu)	565	OLD (OF MAN)	4
-196	old (cu)	566	OLD (OF WOMAN)	4
-196	old (cu)	2113	OLD (USED)	4
-196	old (cu)	406	OLD MAN	4
-196	old (cu)	1229	OLD	4
-#>>>				
-#<<<				
-197	old (gia)	2112	OLD (AGED)	4
-197	old (gia)	565	OLD (OF MAN)	4
-197	old (gia)	566	OLD (OF WOMAN)	4
-197	old (gia)	2113	OLD (USED)	4
-197	old (gia)	406	OLD MAN	4
+196	old (cu)			4
 197	old (gia)	1229	OLD	4
-#>>>				
-#<<<				
-198	open, to	1159	FART	4
-198	open, to	1336	EAT	4
-198	open, to	1415	THINK (REFLECT)	4
-198	open, to	319	LICK	4
-198	open, to	1585	SLEEP	4
-198	open, to	1410	KNOW (SOMETHING)	4
-198	open, to	353	STRIKE	4
-198	open, to	1409	SEE	4
-198	open, to	1457	SEW	4
-198	open, to	1439	SWIM	4
-198	open, to	1440	SPIT	4
-198	open, to	1422	BE ALIVE	4
-198	open, to	1494	DIE	4
-198	open, to	1355	LAUGH	4
-198	open, to	1623	SPEAK	4
-198	open, to	1419	FEAR (BE AFRAID)	4
-198	open, to	203	MARRY	4
-198	open, to	1108	UNCOVER	4
-198	open, to	1443	WALK	4
-198	open, to	3234	OPEN (EYES)	4
-198	open, to	814	DRESS UP	4
-198	open, to	3437	OPEN (MOUTH)	4
-198	open, to	1090	BE BORN	4
-198	open, to	3235	OPEN (STATE)	4
 198	open, to	1156	OPEN	4
-198	open, to	2754	TOWARDS	4
-198	open, to	1421	SUCK	4
-198	open, to	695	GO	4
-198	open, to	1442	STAND	4
-198	open, to	1195	GIVE BIRTH	4
-198	open, to	1441	FLY (MOVE THROUGH AIR)	4
-198	open, to	1452	PUSH	4
-198	open, to	2327	BECOME SICK	4
-198	open, to	1401	DRINK	4
-198	open, to	1253	RAIN (RAINING)	4
-198	open, to	1586	SMELL (PERCEIVE)	4
-198	open, to	1460	IN	4
-198	open, to	1408	HEAR	4
-198	open, to	1447	GIVE	4
-198	open, to	291	PULL OFF (SKIN)	4
-198	open, to	1387	ARRIVE	4
-198	open, to	602	HIDE (CONCEAL)	4
-198	open, to	1446	COME	4
-198	open, to	1416	SIT	4
-198	open, to	1403	BITE	4
-198	open, to	1839	CRY	4
-#>>>				
 199	oven	1143	OVEN	2
-#<<<				
 200	pig	1337	PIG	2
-200	pig	2564	PIGLET	2
-#>>>				
-#<<<				
-201	plant, to	653	PLANT (VEGETATION)	4
-201	plant, to	1159	FART	4
-201	plant, to	1336	EAT	4
-201	plant, to	1415	THINK (REFLECT)	4
-201	plant, to	319	LICK	4
-201	plant, to	1585	SLEEP	4
-201	plant, to	1410	KNOW (SOMETHING)	4
-201	plant, to	353	STRIKE	4
-201	plant, to	1409	SEE	4
-201	plant, to	1457	SEW	4
-201	plant, to	1439	SWIM	4
-201	plant, to	1440	SPIT	4
-201	plant, to	1422	BE ALIVE	4
-201	plant, to	1494	DIE	4
-201	plant, to	1355	LAUGH	4
-201	plant, to	1623	SPEAK	4
-201	plant, to	1419	FEAR (BE AFRAID)	4
-201	plant, to	203	MARRY	4
 201	plant, to	1486	PLANT (SOMETHING)	4
-201	plant, to	1443	WALK	4
-201	plant, to	814	DRESS UP	4
-201	plant, to	1090	BE BORN	4
-201	plant, to	2754	TOWARDS	4
-201	plant, to	1421	SUCK	4
-201	plant, to	695	GO	4
-201	plant, to	1442	STAND	4
-201	plant, to	1195	GIVE BIRTH	4
-201	plant, to	1441	FLY (MOVE THROUGH AIR)	4
-201	plant, to	1452	PUSH	4
-201	plant, to	2327	BECOME SICK	4
-201	plant, to	1401	DRINK	4
-201	plant, to	1253	RAIN (RAINING)	4
-201	plant, to	1586	SMELL (PERCEIVE)	4
-201	plant, to	1460	IN	4
-201	plant, to	1408	HEAR	4
-201	plant, to	1447	GIVE	4
-201	plant, to	291	PULL OFF (SKIN)	4
-201	plant, to	1387	ARRIVE	4
-201	plant, to	602	HIDE (CONCEAL)	4
-201	plant, to	1446	COME	4
-201	plant, to	1416	SIT	4
-201	plant, to	1403	BITE	4
-201	plant, to	1839	CRY	4
-#>>>				
 202	plate	480	PLATE	2
-#<<<				
 203	plow	2154	PLOUGH (INSTRUMENT)	2
-203	plow	1921	PLOUGH	2
-#>>>				
 204	poor	1674	POOR	2
 205	potato	593	POTATO	2
 206	pound	354	POUND	2
-#<<<				
 207	rain	658	RAIN (PRECIPITATION)	2
-207	rain	1253	RAIN (RAINING)	2
-207	rain	2108	RAINING OR RAIN	2
-#>>>				
 208	rainbow	1733	RAINBOW	2
-#<<<				
 209	rat	1490	RAT	2
-209	rat	1491	MOUSE	2
-#>>>				
-#<<<				
-210	red	388	FISHNET	2
 210	red	156	RED	2
-#>>>				
-#<<<				
 211	rice, cooked	2750	GLUTINOUS RICE	4
-211	rice, cooked	3289	UNCOOKED RICE	4
-211	rice, cooked	3390	WILD RICE	4
-211	rice, cooked	2749	UNHUSKED RICE	4
-211	rice, cooked	178	RIPE	4
-211	rice, cooked	926	RICE	4
-211	rice, cooked	2026	RICE PLANT	4
 211	rice, cooked	1191	COOKED RICE	4
-211	rice, cooked	269	COOKED	4
-211	rice, cooked	1486	PLANT (SOMETHING)	4
-#>>>				
-#<<<				
-212	rice, grain	2750	GLUTINOUS RICE	4
-212	rice, grain	2086	GRAIN (CLASSIFIER)	4
 212	rice, grain	605	GRAIN	4
-212	rice, grain	3289	UNCOOKED RICE	4
-212	rice, grain	3390	WILD RICE	4
-212	rice, grain	2749	UNHUSKED RICE	4
-212	rice, grain	926	RICE	4
-212	rice, grain	2026	RICE PLANT	4
-212	rice, grain	1191	COOKED RICE	4
-212	rice, grain	1486	PLANT (SOMETHING)	4
-#>>>				
-#<<<				
-213	rice, plant	653	PLANT (VEGETATION)	4
-213	rice, plant	2750	GLUTINOUS RICE	4
-213	rice, plant	3289	UNCOOKED RICE	4
-213	rice, plant	3390	WILD RICE	4
-213	rice, plant	1486	PLANT (SOMETHING)	4
-213	rice, plant	2749	UNHUSKED RICE	4
-213	rice, plant	926	RICE	4
 213	rice, plant	2026	RICE PLANT	4
-213	rice, plant	1191	COOKED RICE	4
-#>>>				
 214	rich	712	RICH	2
-#<<<				
 215	right	1019	RIGHT	2
-215	right	1725	CORRECT (RIGHT)	2
-215	right	2183	RIGHT HAND	2
-#>>>				
 216	right side	1019	RIGHT	2
 217	ripe	178	RIPE	2
-#<<<				
 218	road	667	ROAD	2
-218	road	2457	PATH OR ROAD	2
-#>>>				
 219	roof	769	ROOF	2
 220	rooster	1511	ROOSTER	2
 221	root	670	ROOT	2
@@ -849,68 +235,30 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 232	sharp	1396	SHARP	2
 233	sheep	1331	SHEEP	2
 234	shirt	1622	SHIRT	2
-#<<<				
 235	show	1868	VISIBLE	2
-235	show	1039	SHOW	2
-#>>>				
-#<<<				
-236	shoot	1684	BUD	2
 236	shoot	1172	SHOOT	2
-236	shoot	3358	SPROUT (SHOOT)	2
-#>>>				
 237	short	1645	SHORT	2
 238	shoulder	1482	SHOULDER	2
 239	shrimp	2349	SHRIMP	2
-#<<<				
 240	sick	1847	SICK	2
-240	sick	2327	BECOME SICK	2
-#>>>				
 241	silver	759	SILVER	2
-#<<<				
 242	sit	1416	SIT	2
-242	sit	1649	SIT DOWN	2
-#>>>				
-#<<<				
 243	skin	763	SKIN	2
-243	skin	291	PULL OFF (SKIN)	2
-#>>>				
 244	skirt	1600	SKIRT	2
 245	sky	1732	SKY	2
-#<<<				
 246	sleep	1585	SLEEP	2
-246	sleep	2972	SLEEP (STATE)	2
-#>>>				
 247	small	1246	SMALL	2
-#<<<				
-248	smoke	778	SMOKE (EXHAUST)	2
 248	smoke	2859	SMOKE (EMIT SMOKE)	2
-248	smoke	1689	SMOKE (INHALE)	2
-#>>>				
 249	snake	730	SNAKE	2
-#<<<				
-250	sniff, smell	2201	LIGHT (SMELL OR TASTE)	4
-250	sniff, smell	1221	NOSE	4
-250	sniff, smell	510	STRONG EFFECT	4
 250	sniff, smell	375	SNIFF	4
-250	sniff, smell	2938	FLAVOR	4
-250	sniff, smell	1586	SMELL (PERCEIVE)	4
-250	sniff, smell	1587	SMELL (STINK)	4
-250	sniff, smell	2124	SMELL	4
-#>>>				
-#<<<				
-251	snow	1255	SNOWING	2
 251	snow	784	SNOW	2
-#>>>				
 252	son	1620	SON	2
 253	sour	1906	SOUR	2
 254	spider	843	SPIDER	2
 255	stand up	570	STAND UP	2
 256	star	1430	STAR	2
 257	steal	713	STEAL	2
-#<<<				
-258	stone	1762	STONE (OF FRUIT)	2
 258	stone	857	STONE	2
-#>>>				
 259	storm	858	STORM	2
 260	strong	785	STRONG	2
 261	stupid	1518	STUPID	2
@@ -921,55 +269,27 @@ ID	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
 266	sweet	717	SWEET	2
 267	table	1775	TABLE	2
 268	tail	1220	TAIL	2
-#<<<				
 269	tall	711	TALL	2
-269	tall	1265	HIGH	2
-#>>>				
 270	termite	883	TERMITE	2
 271	that	78	THAT	2
 272	they	817	THEY	2
-#<<<				
-273	thick	2239	DENSE	2
 273	thick	1244	THICK	2
-#>>>				
-#<<<				
-274	thin	1400	THIN (SLIM)	2
-274	thin	2157	FINE OR THIN	2
-274	thin	2219	LEAN (MEAT)	2
-274	thin	2305	THIN (OF HAIR AND THREAD)	2
 274	thin	2308	THIN	2
-274	thin	2306	THIN (OF LEAF AND CLOTH)	2
-274	thin	2249	THIN (OF SHAPE OF OBJECT)	2
-#>>>				
 275	this	1214	THIS	2
-#<<<				
 276	thunder	1150	THUNDER	2
-276	thunder	2378	THUNDER (VERB)	2
-#>>>				
 277	tick	1527	TICK	2
 278	tongue	1205	TONGUE	2
 279	tooth	1380	TOOTH	2
 280	tree	906	TREE	2
 281	trousers	809	TROUSERS	2
-#<<<				
 282	turtle	112	TURTLE	2
-282	turtle	895	TORTOISE	2
-#>>>				
 283	unripe	1958	UNRIPE	2
 284	vegetable	924	VEGETABLES	2
 285	"village name (Khuan
-He)"		???	
+He)"			
 286	wall	933	WALL (OF HOUSE)	2
-#<<<				
-287	warm	1232	WARM	2
 287	warm	2272	HOT OR WARM	2
-#>>>				
-#<<<				
-288	water	2516	WATER BUFFALO	2
-288	water	3078	IRRIGATE	2
 288	water	948	WATER	2
-288	water	1487	POUR	2
-#>>>				
 289	we (excl.)	1130	WE (EXCLUSIVE)	2
 290	we (incl.)	1131	WE (INCLUSIVE)	2
 291	weak	1601	WEAK	2
@@ -981,10 +301,7 @@ He)"		???
 297	which	727	WHICH	2
 298	white	1335	WHITE	2
 299	who	1235	WHO	2
-#<<<				
 300	wide	1243	WIDE	2
-300	wide	1244	THICK	2
-#>>>				
 301	wife	1199	WIFE	2
 302	wind	960	WIND	2
 303	window	1375	WINDOW	2
@@ -992,21 +309,11 @@ He)"		???
 305	winter (dry season)	1471	WINTER	4
 306	woman	962	WOMAN	2
 307	wood	1803	WOOD	2
-#<<<				
-308	work	1086	WORK (ACTIVITY)	2
 308	work	984	WORK (LABOUR)	2
-308	work	2281	WORKING OR WORK	2
-#>>>				
 309	worm	1219	WORM	2
 310	yam	410	YAM	2
 311	yawn	1028	YAWN	2
 312	year	1226	YEAR	2
 313	yellow	1424	YELLOW	2
-#<<<				
-314	young	2513	CHICKEN CHICK	2
 314	young	1207	YOUNG	2
-314	young	564	YOUNG (OF MAN)	2
-#>>>				
 315	you (plural)	1213	YOU	2
-#	311/315	99%	
-
