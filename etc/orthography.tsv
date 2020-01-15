@@ -1,0 +1,98 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	a	na⁵⁵mjau³⁵ɬa⁵³, qhaŋ³³ȵai⁵⁵	Nameo	100	U+0061
+i	i	nei³³tai³⁵, pi⁵⁵qai³³lɔ⁵³	Nameo	100	U+0069
+u	u	kuə³³tu⁵³, gəu⁵³tɕu³³	Nameo	100	U+0075
+³³	³³	kin³³dʑu⁵⁵, taɯ³³ʔu³⁵	Nameo	93	U+00b3 U+00b3
+³³$	³³	lui³³, tɕu³³	Nameo	84	U+00b3 U+00b3 U+0024
+ŋ	ŋ	qaŋ⁵³qaŋ³³, toŋ⁵⁵ŋui³³	Nameo	80	U+014b
+⁵³$	⁵³	lɔ⁵³, tɔ⁵³	Nameo	76	U+2075 U+00b3 U+0024
+³⁵$	³⁵	maŋ³⁵, pi³⁵	Nameo	72	U+00b3 U+2075 U+0024
+⁵⁵$	⁵⁵	nəu⁵⁵, pa⁵⁵	Nameo	59	U+2075 U+2075 U+0024
+^t	t	tɔ⁵³, taɯ³³ʔu³⁵	Nameo	55	U+005e U+0074
+ə	ə	nəu⁵⁵, kuə³³tu⁵³	Nameo	51	U+0259
+ɔ	ɔ	lɔ⁵³, tɔ⁵³	Nameo	40	U+0254
+n	n	tin⁵³tan³³, kin³³dʑu⁵⁵	Nameo	34	U+006e
+^tɕ	tɕ	tɕu³³, tɕau⁵⁵	Nameo	31	U+005e U+0074 U+0255
+^l	l	lɔ⁵³, lui³³	Nameo	27	U+005e U+006c
+⁵³	⁵³	tɕei⁵³tɕi³³, gəu⁵³tɕu³³	Nameo	24	U+2075 U+00b3
+e	e	tɕei⁵³tɕi³³, tɕei⁵³	Nameo	24	U+0065
+^p	p	pi³⁵, pa⁵⁵	Nameo	22	U+005e U+0070
+t	t	soŋ⁵⁵tja⁵⁵, kuə³³tu⁵³	Nameo	21	U+0074
+^n	n	naŋ⁵³, nəu⁵⁵	Nameo	20	U+005e U+006e
+⁵⁵	⁵⁵	tɕei⁵⁵ma¹¹, tɕin⁵⁵tɕəŋ³³	Nameo	19	U+2075 U+2075
+o	NULL	moŋ¹¹, ɬoŋ⁵⁵	Nameo	19	U+006f
+^q	q	qai⁵³, qei³⁵	Nameo	19	U+005e U+0071
+^k	k	kin³³dʑu⁵⁵, kin³³khu³⁵	Nameo	18	U+005e U+006b
+^m	m	maŋ³⁵, moŋ¹¹	Nameo	18	U+005e U+006d
+tɕ	tɕ	tɕin⁵⁵tɕəŋ³³, ljəu³³tɕai³⁵	Nameo	17	U+0074 U+0255
+j	j	djɔ³³, ljəu³³tɕai³⁵	Nameo	16	U+006a
+m	m	tam⁵³, tɕei⁵⁵ma¹¹	Nameo	13	U+006d
+^ȵ	ȵ	ȵoŋ⁵⁵, ȵau⁵⁵	Nameo	12	U+005e U+0235
+¹¹$	¹¹	moŋ¹¹, la³³pai¹¹	Nameo	11	U+00b9 U+00b9 U+0024
+q	q	a³³qəu³¹, aŋ³³qəu²²	Nameo	10	U+0071
+ɬ	ɬ	tɕei³³ɬɔ³³, khɬu⁵³	Nameo	10	U+026c
+l	l	la³³luɔŋ⁵³, tɕəu³³lai³³	Nameo	10	U+006c
+p	p	la³³pai¹¹, la³³puŋ¹¹	Nameo	9	U+0070
+^ɬ	ɬ	ɬoŋ⁵⁵, ɬauŋ³³	Nameo	9	U+005e U+026c
+ȵ	ȵ	tɕaŋ³³ȵai⁵⁵, qhaŋ³³ȵai⁵⁵	Nameo	8	U+0235
+^v	v	va³³, vai³³	Nameo	8	U+005e U+0076
+ɯ	ɯ	taɯ³³ʔu³⁵, taɯ³⁵	Nameo	8	U+026f
+ʔ	ʔ	taɯ³³ʔu³⁵, təu³³ʔu³⁵	Nameo	8	U+0294
+^sʰ	sʰ	sʰɔ³⁵, sʰou¹¹	Nameo	7	U+005e U+0073 U+02b0
+³⁵	³⁵	kue³⁵tai⁵³, pəu³⁵hau³³	Nameo	7	U+00b3 U+2075
+^qh	qh	qhaŋ⁵³, qhan⁵³	Nameo	7	U+005e U+0071 U+0068
+^kh	kh	khai³³khɔ³⁵, khɬu⁵³	Nameo	6	U+005e U+006b U+0068
+k	k	tɕi³³kəu³⁵, giŋ⁵⁵ku³³	Nameo	6	U+006b
+^s	s	soŋ⁵⁵tja⁵⁵, sai⁵⁵te³³	Nameo	6	U+005e U+0073
+v	v	tɕi³³vɔ³⁵, pa³³va⁵³ni³⁵	Nameo	5	U+0076
+^ɣ	ɣ	ɣe³⁵, ɣin⁵⁵	Nameo	5	U+005e U+0263
+kh	kh	la⁵³khəu³⁵, kin³³khu³⁵	Nameo	5	U+006b U+0068
+^g	g	gəi⁵³, gəu³³	Nameo	5	U+005e U+0067
+^ʔ	ʔ	ʔɔŋ³³, ʔdjoŋ³³ʔdai³⁵	Nameo	4	U+005e U+0294
+^a	a	aŋ³³qəu²², a⁵⁵ȵin³³	Nameo	4	U+005e U+0061
+^h	h	həu⁵⁵, həu³³ʔu⁵³	Nameo	4	U+005e U+0068
+h	h	pəu³⁵hau³³, khwəŋ³³hɛ⁵⁵	Nameo	4	U+0068
+³¹$	³¹	kin³³tɕɔŋ³¹, ɣɔ³¹	Nameo	3	U+00b3 U+00b9 U+0024
+d	d	ʔdjoŋ³³ʔdai³⁵, ʔdjɔ³⁵	Nameo	3	U+0064
+^ŋ	ŋ	ŋui⁵⁵, ŋe³³	Nameo	3	U+005e U+014b
+^th	th	thau³³na³³, than⁵⁵	Nameo	3	U+005e U+0074 U+0068
+^z	z	zi³³, zɔ³³	Nameo	3	U+005e U+007a
+^u	u	u³³tɕhui⁵³, u³⁵	Nameo	3	U+005e U+0075
+ph	ph	ta⁵³phai³⁵, kin³³phi⁵⁵	Nameo	2	U+0070 U+0068
+tsʰauŋ³³, sʰɔŋ³³	<???>	tsʰauŋ³³, sʰɔŋ³³	Nameo	2	U+0074 U+0073 U+02b0 U+0061 U+0075 U+014b U+00b3 U+00b3 U+002c U+0020 U+0073 U+02b0 U+0254 U+014b U+00b3 U+00b3
+^ph	ph	phuŋ³⁵, phai⁵³	Nameo	2	U+005e U+0070 U+0068
+kin³³həu⁵⁵,
+həu⁵⁵than⁵⁵	<???>	kin³³həu⁵⁵,
+həu⁵⁵than⁵⁵	Nameo	2	U+006b U+0069 U+006e U+00b3 U+00b3 U+0068 U+0259 U+0075 U+2075 U+2075 U+002c U+000a U+0068 U+0259 U+0075 U+2075 U+2075 U+0074 U+0068 U+0061 U+006e U+2075 U+2075
+qh	qh	kin³³qhɔŋ⁵³, mua³³qha³³	Nameo	2	U+0071 U+0068
+²²$	²²	aŋ³³qəu²², ma³³ʔaŋ²²	Nameo	2	U+00b2 U+00b2 U+0024
+ɪ	ɪ	ɬɪn⁵³, ku³³tɪn⁵³	Nameo	2	U+026a
+ɣei³³sʰai³⁵, qai³⁵	<???>	ɣei³³sʰai³⁵, qai³⁵	Nameo	2	U+0263 U+0065 U+0069 U+00b3 U+00b3 U+0073 U+02b0 U+0061 U+0069 U+00b3 U+2075 U+002c U+0020 U+0071 U+0061 U+0069 U+00b3 U+2075
+sʰ	sʰ	laŋ⁵³sʰaŋ⁵⁵, mua³³sʰaŋ⁵³	Nameo	2	U+0073 U+02b0
+^sh	sh	shɔ³³va⁵⁵, shaŋ⁵⁵	Nameo	2	U+005e U+0073 U+0068
+ɕ	ɕ	pai⁵³ɕin³³?, pai⁵³ɕin³³	Nameo	2	U+0255
+^x	x	xɔŋ¹¹, xi³⁵	Nameo	2	U+005e U+0078
+^ɔ	ɔ	ɔ⁵³, ɔ³³tai³³	Nameo	2	U+005e U+0254
+ɛ	ɛ	ta³³ɬɛ³⁵, khwəŋ³³hɛ⁵⁵	Nameo	2	U+025b
+s	s	la³³sa¹¹, ta³³sau⁵³	Nameo	2	U+0073
+z	z	la³³zu³⁵, la³³zɯəŋ⁵³	Nameo	2	U+007a
+³²$	³²	ta³², ljəu³²	Nameo	2	U+00b3 U+00b2 U+0024
+dʑ	dʑ	kin³³dʑu⁵⁵	Nameo	2	U+0064 U+0291
+[na⁵⁵]mjau³⁵ɬa⁵³	<???>	[na⁵⁵]mjau³⁵ɬa⁵³	Nameo	1	U+005b U+006e U+0061 U+2075 U+2075 U+005d U+006d U+006a U+0061 U+0075 U+00b3 U+2075 U+026c U+0061 U+2075 U+00b3
+õ	õ	tɕõ³³tɕai⁵⁵	Nameo	1	U+00f5
+b	b	la³³baŋ⁵³	Nameo	1	U+0062
+³²	³²	nu³²tɕei⁵⁵kam⁵⁵	Nameo	1	U+00b3 U+00b2
+[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	<???>	[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	Nameo	1	U+005b U+014b U+025b U+00b9 U+00b9 U+005d U+0074 U+0254 U+2075 U+00b3 U+0074 U+0255 U+0068 U+0069 U+006e U+00b3 U+2075
+g	g	ta³³goŋ⁵⁵	Nameo	1	U+0067
+?$	<?>	pai⁵³ɕin³³?	Nameo	1	U+003f U+0024
+^tɕh	tɕh	tɕhin³⁵	Nameo	1	U+005e U+0074 U+0255 U+0068
+th	th	tau⁵³thəu³³	Nameo	1	U+0074 U+0068
+¹¹	¹¹	khai³³u¹¹pa³⁵	Nameo	1	U+00b9 U+00b9
+^d	d	djɔ³³	Nameo	1	U+005e U+0064
+c	c	tcoŋ⁵⁵	Nameo	1	U+0063
+̃	<?>	tɕõ³³tɕai⁵⁵	Nameo	1	U+0303
+tɕh	tɕh	u³³tɕhui⁵³	Nameo	1	U+0074 U+0255 U+0068
+ɣ	ɣ	tɕei⁵³ɣəu³³	Nameo	1	U+0263
+^khw	khw	khwəŋ³³hɛ⁵⁵	Nameo	1	U+005e U+006b U+0068 U+0077
