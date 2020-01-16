@@ -15,7 +15,7 @@ Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 - **Varieties:** 12
 - **Concepts:** 315
 - **Lexemes:** 910
-- **Sources:** 1
+- **Sources:** 5
 - **Synonymy:** 1.00
 - **Cognacy:** 910 cognates in 315 cognate sets (257 singletons)
 - **Cognate Diversity:** 0.00
