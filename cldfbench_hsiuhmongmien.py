@@ -21,7 +21,6 @@ class CustomLanguage(Language):
     Name_in_Source = attr.ib(default=None)
     Location = attr.ib(default=None)
 
-
 class Dataset(MyDataset):
     dir = Path(__file__).parent
     id = "hsiuhmongmien"
@@ -53,8 +52,17 @@ class Dataset(MyDataset):
                 dicts=True,
                 delimiter="\t")
         # add languages
-        languages = args.writer.add_languages(
-                lookup_factory='Name')
+        languages = {}
+        for lang in self.languages:
+            args.writer.add_language(
+                ID = lang['ID'],
+                Name = lang['Name'],
+                Family = lang['Family'],
+                Glottocode = lang['Glottocode'],
+                Latitude = lang['Latitude'],
+                Longitude = lang['Longitude']
+            )
+            languages[lang['Name']]={'Source': lang['Source'], 'ID': lang['ID']}
         # make concept dictionary
         concepts = {}
         for concept in self.concepts:
@@ -69,13 +77,13 @@ class Dataset(MyDataset):
             ):
             cogid = cogid_ + 1
             #print(entry)
-            for language in languages:
+            for language, value in languages.items():
                 for row in args.writer.add_forms_from_value(
-                    Language_ID=languages[language],
+                    Language_ID = value['ID'],
                     Parameter_ID=concepts[entry['Gloss']],
                     Value=entry[language],
-                    Source=["Hsiu2015"]
-                ):
+                    Source=[value['Source']]
+                    ):
                     args.writer.add_cognate(
                         lexeme=row,
                         Cognateset_ID=cogid)
