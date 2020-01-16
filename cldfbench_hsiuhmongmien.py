@@ -27,6 +27,11 @@ class Dataset(MyDataset):
     id = "hsiuhmongmien"
     language_class = CustomLanguage
     concept_class = CustomConcept
+    form_spec = FormSpec(
+        missing_data=[''],
+        separators=";/,",
+        first_form_only=True
+    )
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return super().cldf_specs()
@@ -42,10 +47,9 @@ class Dataset(MyDataset):
     def cmd_makecldf(self, args):
         args.writer.add_sources()
         # read in data
-        data = self.raw_dir.read_csv("NaMeo_wordlist.tsv",
+        data = self.raw_dir.read_csv("HM_merged.tsv",
                 dicts=True,
-                delimiter="\t",
-                quotechar='"')
+                delimiter="\t")
         # add languages
         languages = args.writer.add_languages(
                 lookup_factory='Name')
