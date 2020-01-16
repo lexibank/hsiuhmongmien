@@ -30,6 +30,8 @@ class Dataset(MyDataset):
     form_spec = FormSpec(
         missing_data=[''],
         separators=";/,",
+        brackets={'(': ')', '[': ']'},
+        strip_inside_brackets=True,
         first_form_only=True
     )
 
