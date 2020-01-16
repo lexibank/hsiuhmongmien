@@ -1,98 +1,427 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-a	a	na⁵⁵mjau³⁵ɬa⁵³, qhaŋ³³ȵai⁵⁵	Nameo	100	U+0061
-i	i	nei³³tai³⁵, pi⁵⁵qai³³lɔ⁵³	Nameo	100	U+0069
-u	u	kuə³³tu⁵³, gəu⁵³tɕu³³	Nameo	100	U+0075
-³³	³³	kin³³dʑu⁵⁵, taɯ³³ʔu³⁵	Nameo	93	U+00b3 U+00b3
-³³$	³³	lui³³, tɕu³³	Nameo	84	U+00b3 U+00b3 U+0024
-ŋ	ŋ	qaŋ⁵³qaŋ³³, toŋ⁵⁵ŋui³³	Nameo	80	U+014b
-⁵³$	⁵³	lɔ⁵³, tɔ⁵³	Nameo	76	U+2075 U+00b3 U+0024
-³⁵$	³⁵	maŋ³⁵, pi³⁵	Nameo	72	U+00b3 U+2075 U+0024
-⁵⁵$	⁵⁵	nəu⁵⁵, pa⁵⁵	Nameo	59	U+2075 U+2075 U+0024
-^t	t	tɔ⁵³, taɯ³³ʔu³⁵	Nameo	55	U+005e U+0074
-ə	ə	nəu⁵⁵, kuə³³tu⁵³	Nameo	51	U+0259
-ɔ	ɔ	lɔ⁵³, tɔ⁵³	Nameo	40	U+0254
-n	n	tin⁵³tan³³, kin³³dʑu⁵⁵	Nameo	34	U+006e
-^tɕ	tɕ	tɕu³³, tɕau⁵⁵	Nameo	31	U+005e U+0074 U+0255
-^l	l	lɔ⁵³, lui³³	Nameo	27	U+005e U+006c
-⁵³	⁵³	tɕei⁵³tɕi³³, gəu⁵³tɕu³³	Nameo	24	U+2075 U+00b3
-e	e	tɕei⁵³tɕi³³, tɕei⁵³	Nameo	24	U+0065
-^p	p	pi³⁵, pa⁵⁵	Nameo	22	U+005e U+0070
-t	t	soŋ⁵⁵tja⁵⁵, kuə³³tu⁵³	Nameo	21	U+0074
-^n	n	naŋ⁵³, nəu⁵⁵	Nameo	20	U+005e U+006e
-⁵⁵	⁵⁵	tɕei⁵⁵ma¹¹, tɕin⁵⁵tɕəŋ³³	Nameo	19	U+2075 U+2075
-o	NULL	moŋ¹¹, ɬoŋ⁵⁵	Nameo	19	U+006f
-^q	q	qai⁵³, qei³⁵	Nameo	19	U+005e U+0071
-^k	k	kin³³dʑu⁵⁵, kin³³khu³⁵	Nameo	18	U+005e U+006b
-^m	m	maŋ³⁵, moŋ¹¹	Nameo	18	U+005e U+006d
-tɕ	tɕ	tɕin⁵⁵tɕəŋ³³, ljəu³³tɕai³⁵	Nameo	17	U+0074 U+0255
-j	j	djɔ³³, ljəu³³tɕai³⁵	Nameo	16	U+006a
-m	m	tam⁵³, tɕei⁵⁵ma¹¹	Nameo	13	U+006d
-^ȵ	ȵ	ȵoŋ⁵⁵, ȵau⁵⁵	Nameo	12	U+005e U+0235
-¹¹$	¹¹	moŋ¹¹, la³³pai¹¹	Nameo	11	U+00b9 U+00b9 U+0024
-q	q	a³³qəu³¹, aŋ³³qəu²²	Nameo	10	U+0071
-ɬ	ɬ	tɕei³³ɬɔ³³, khɬu⁵³	Nameo	10	U+026c
-l	l	la³³luɔŋ⁵³, tɕəu³³lai³³	Nameo	10	U+006c
-p	p	la³³pai¹¹, la³³puŋ¹¹	Nameo	9	U+0070
-^ɬ	ɬ	ɬoŋ⁵⁵, ɬauŋ³³	Nameo	9	U+005e U+026c
-ȵ	ȵ	tɕaŋ³³ȵai⁵⁵, qhaŋ³³ȵai⁵⁵	Nameo	8	U+0235
-^v	v	va³³, vai³³	Nameo	8	U+005e U+0076
-ɯ	ɯ	taɯ³³ʔu³⁵, taɯ³⁵	Nameo	8	U+026f
-ʔ	ʔ	taɯ³³ʔu³⁵, təu³³ʔu³⁵	Nameo	8	U+0294
-^sʰ	sʰ	sʰɔ³⁵, sʰou¹¹	Nameo	7	U+005e U+0073 U+02b0
-³⁵	³⁵	kue³⁵tai⁵³, pəu³⁵hau³³	Nameo	7	U+00b3 U+2075
-^qh	qh	qhaŋ⁵³, qhan⁵³	Nameo	7	U+005e U+0071 U+0068
-^kh	kh	khai³³khɔ³⁵, khɬu⁵³	Nameo	6	U+005e U+006b U+0068
-k	k	tɕi³³kəu³⁵, giŋ⁵⁵ku³³	Nameo	6	U+006b
-^s	s	soŋ⁵⁵tja⁵⁵, sai⁵⁵te³³	Nameo	6	U+005e U+0073
-v	v	tɕi³³vɔ³⁵, pa³³va⁵³ni³⁵	Nameo	5	U+0076
-^ɣ	ɣ	ɣe³⁵, ɣin⁵⁵	Nameo	5	U+005e U+0263
-kh	kh	la⁵³khəu³⁵, kin³³khu³⁵	Nameo	5	U+006b U+0068
-^g	g	gəi⁵³, gəu³³	Nameo	5	U+005e U+0067
-^ʔ	ʔ	ʔɔŋ³³, ʔdjoŋ³³ʔdai³⁵	Nameo	4	U+005e U+0294
-^a	a	aŋ³³qəu²², a⁵⁵ȵin³³	Nameo	4	U+005e U+0061
-^h	h	həu⁵⁵, həu³³ʔu⁵³	Nameo	4	U+005e U+0068
-h	h	pəu³⁵hau³³, khwəŋ³³hɛ⁵⁵	Nameo	4	U+0068
-³¹$	³¹	kin³³tɕɔŋ³¹, ɣɔ³¹	Nameo	3	U+00b3 U+00b9 U+0024
-d	d	ʔdjoŋ³³ʔdai³⁵, ʔdjɔ³⁵	Nameo	3	U+0064
-^ŋ	ŋ	ŋui⁵⁵, ŋe³³	Nameo	3	U+005e U+014b
-^th	th	thau³³na³³, than⁵⁵	Nameo	3	U+005e U+0074 U+0068
-^z	z	zi³³, zɔ³³	Nameo	3	U+005e U+007a
-^u	u	u³³tɕhui⁵³, u³⁵	Nameo	3	U+005e U+0075
-ph	ph	ta⁵³phai³⁵, kin³³phi⁵⁵	Nameo	2	U+0070 U+0068
-tsʰauŋ³³, sʰɔŋ³³	<???>	tsʰauŋ³³, sʰɔŋ³³	Nameo	2	U+0074 U+0073 U+02b0 U+0061 U+0075 U+014b U+00b3 U+00b3 U+002c U+0020 U+0073 U+02b0 U+0254 U+014b U+00b3 U+00b3
-^ph	ph	phuŋ³⁵, phai⁵³	Nameo	2	U+005e U+0070 U+0068
+a	a	na⁵⁵mjau³⁵ɬa⁵³, ta³³ʔau³⁵	Nameotuyenquang, SouthernQiandong, Guncen, EasternQiandong, NorthernQiandong, WesternQiandong	100	U+0061
+i	i	kin³³lai³⁵, tai³³ȵi⁵⁵	Nameotuyenquang, Guncen, Nameocaobang, WesternQiandong, EasternQiandong, SouthernQiandong, NorthernQiandong	100	U+0069
+u	u	ɣu⁴⁴, khɬu³³həu⁵⁵	Nameotuyenquang, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong, NorthernQiandong, Nameocaobang	100	U+0075
+³³$	³³	tsei³³, lei³³	Nameotuyenquang, Nameocaobang, NorthernQiandong, WesternQiandong, EasternQiandong	100	U+00b3 U+00b3 U+0024
+ŋ	ŋ	laŋ⁵³sʰaŋ⁵⁵, ȶɔŋ⁴⁴ŋoi³³	Nameotuyenquang, NorthernQiandong, Guncen, WesternQiandong, EasternQiandong, Nameocaobang	100	U+014b
+³³	³³	kin³³dʑu⁵⁵, taɯ³³ʔu³⁵	Nameotuyenquang, NorthernQiandong, Nameocaobang, EasternQiandong, WesternQiandong	100	U+00b3 U+00b3
+e	NULL	neu²², tɕei⁵³	EasternQiandong, WesternQiandong, Nameotuyenquang, SouthernQiandong, Nameocaobang, NorthernQiandong, Guncen, Yangpai	100	U+0065
+³⁵$	³⁵	maŋ³⁵, pai³⁵	Nameotuyenquang, Nameocaobang, NorthernQiandong, SouthernQiandong, EasternQiandong	100	U+00b3 U+2075 U+0024
+⁵³$	⁵³	tɔ⁵³, tɕei⁵³	Nameotuyenquang, SouthernQiandong, EasternQiandong, WesternQiandong, Nameocaobang	94	U+2075 U+00b3 U+0024
+^t	t	tɔ⁵³, ta³³	Nameotuyenquang, SouthernQiandong, Guncen, Nameocaobang, NorthernQiandong, EasternQiandong, WesternQiandong	91	U+005e U+0074
+⁵⁵$	⁵⁵	kin³³dʑu⁵⁵, nəu⁵⁵	Nameotuyenquang, NorthernQiandong, WesternQiandong, Nameocaobang, EasternQiandong, SouthernQiandong	75	U+2075 U+2075 U+0024
+n	n	kin³³dʑu⁵⁵, kin³³nɑu³⁵⁴	Nameotuyenquang, EasternQiandong, Nameocaobang, SouthernQiandong, WesternQiandong, NorthernQiandong, Guncen	69	U+006e
+ə	ə	nəu⁵⁵, tsəi3ma6	Nameotuyenquang, NorthernQiandong, Guncen, WesternQiandong	61	U+0259
+ɔ	ɔ	tɔ⁵³, nɔ⁵³	Nameotuyenquang, Nameocaobang, WesternQiandong, SouthernQiandong	57	U+0254
+^p	p	pa⁵⁵, pɛ²⁴	Nameotuyenquang, WesternQiandong, SouthernQiandong, NorthernQiandong, Guncen, EasternQiandong, Nameocaobang	56	U+005e U+0070
+o	NULL	so²⁴, po³⁵sʰoŋ³⁵	Nameotuyenquang, NorthernQiandong, SouthernQiandong, WesternQiandong, Guncen, EasternQiandong, Nameocaobang	55	U+006f
+^l	l	lei³³, lɔ⁵³	Nameotuyenquang, Nameocaobang, EasternQiandong, WesternQiandong, NorthernQiandong, Guncen, SouthernQiandong	54	U+005e U+006c
+j	j	tjuŋ²⁴njy⁵³, na⁵⁵mjau³⁵ɬa⁵³	Nameotuyenquang, WesternQiandong, EasternQiandong, NorthernQiandong, SouthernQiandong, Nameocaobang	46	U+006a
+⁴⁴$	⁴⁴	ɣu⁴⁴, kei⁴⁴	WesternQiandong, SouthernQiandong, EasternQiandong, NorthernQiandong, Nameocaobang	43	U+2074 U+2074 U+0024
+^q	q	qaŋ³⁵, quŋ⁵⁵	Nameotuyenquang, EasternQiandong, NorthernQiandong, WesternQiandong, SouthernQiandong, Guncen, Yangpai, Nameocaobang	42	U+005e U+0071
+^n	n	neu²², nəu⁵⁵	Nameotuyenquang, EasternQiandong, WesternQiandong, SouthernQiandong, NorthernQiandong, Nameocaobang, Guncen	41	U+005e U+006e
+^tɕ	tɕ	tɕei⁵³, tɕi⁵³	Nameotuyenquang, SouthernQiandong, NorthernQiandong, WesternQiandong, Guncen, Nameocaobang, EasternQiandong	41	U+005e U+0074 U+0255
+¹³$	¹³	pai¹³, pei¹³	SouthernQiandong, WesternQiandong, NorthernQiandong, EasternQiandong	36	U+00b9 U+00b3 U+0024
+^k	k	kin³³dʑu⁵⁵, kei⁴⁴	Nameotuyenquang, WesternQiandong, Nameocaobang, NorthernQiandong, EasternQiandong, SouthernQiandong, Guncen	32	U+005e U+006b
+m	m	tam⁵³, sam⁵³	Nameotuyenquang, SouthernQiandong, WesternQiandong, Guncen, EasternQiandong, NorthernQiandong, Nameocaobang	31	U+006d
+^ɬ	ɬ	ɬoŋ⁵⁵, ɬa⁵³	Nameotuyenquang, NorthernQiandong, WesternQiandong, Nameocaobang, Guncen, SouthernQiandong, EasternQiandong	30	U+005e U+026c
+t	t	pua¹³teu⁵³, kuə³³tu⁵³	Nameotuyenquang, WesternQiandong, Nameocaobang, EasternQiandong, NorthernQiandong	29	U+0074
+ɑ	ɑ	tɑ³³qɑ³³, lɑ³³nɑ³³	Nameocaobang, EasternQiandong	28	U+0251
+⁵³	⁵³	gəu⁵³tɕu³³, qan⁵³qa⁴⁴	Nameotuyenquang, Nameocaobang, SouthernQiandong	26	U+2075 U+00b3
+ɛ	ɛ	tɛ³³qɛ³³, pɛ²⁴	NorthernQiandong, EasternQiandong, Guncen, Nameotuyenquang, Nameocaobang, SouthernQiandong	26	U+025b
+^m	m	maŋ³⁵, mi³³	Nameotuyenquang, Nameocaobang, WesternQiandong, EasternQiandong	25	U+005e U+006d
+⁵⁵	⁵⁵	pi⁵⁵sei⁵⁵, na⁵⁵mjau³⁵ɬa⁵³	Nameotuyenquang, NorthernQiandong, WesternQiandong	24	U+2075 U+2075
+²⁴$	²⁴	so²⁴, pɛ²⁴	EasternQiandong, Nameocaobang, SouthernQiandong	24	U+00b2 U+2074 U+0024
+^ȵ	ȵ	ȵaŋ³³qaŋ³⁵, ȵai⁵³	Nameotuyenquang, Guncen, SouthernQiandong, Nameocaobang	20	U+005e U+0235
+q	q	ȵaŋ³³qaŋ³⁵, aŋ³³qəu²²	Nameotuyenquang, Nameocaobang, SouthernQiandong, NorthernQiandong, WesternQiandong, Guncen, EasternQiandong	19	U+0071
+²²$	²²	neu²², aŋ³³qəu²²	EasternQiandong, WesternQiandong, SouthernQiandong, Nameotuyenquang, Nameocaobang	18	U+00b2 U+00b2 U+0024
+tɕ	tɕ	kin³³tɕa³³, khɔ³³tɕi³⁵	Nameotuyenquang	17	U+0074 U+0255
+l	l	kin³³lai³⁵, thau³³ləi³⁵	Nameotuyenquang, Nameocaobang, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong	16	U+006c
+^ɣ	ɣ	ɣu⁴⁴, ɣi³³	Nameotuyenquang, WesternQiandong, NorthernQiandong, SouthernQiandong, Guncen	16	U+005e U+0263
+¹¹$	¹¹	moŋ¹¹, ta³³kɔ¹¹	Nameotuyenquang, NorthernQiandong, Nameocaobang	15	U+00b9 U+00b9 U+0024
+p	p	tə⁰²paŋ⁵⁵, ɬin³³pu³⁵	Nameotuyenquang, NorthernQiandong, Nameocaobang, WesternQiandong, EasternQiandong	15	U+0070
+ɬ	ɬ	na⁵⁵mjau³⁵ɬa⁵³, la³³ɬi⁵⁵	Nameotuyenquang, SouthernQiandong	15	U+026c
+³¹$	³¹	ŋi³¹, tɔʔ³¹	SouthernQiandong, Nameocaobang, Nameotuyenquang, NorthernQiandong	15	U+00b3 U+00b9 U+0024
+^s	s	sam⁵³, so²⁴	Nameotuyenquang, EasternQiandong, SouthernQiandong, Guncen	13	U+005e U+0073
+^ɕ	ɕ	ɕan³³, ɕiŋ3	EasternQiandong, Nameocaobang, Guncen, NorthernQiandong, WesternQiandong, SouthernQiandong	13	U+005e U+0255
+^ts	ts	tsei³³, tsəi3ma6	Nameocaobang, EasternQiandong, NorthernQiandong, Guncen, SouthernQiandong	12	U+005e U+0074 U+0073
+ȵ	ȵ	tɕaŋ³³ȵai⁵⁵, qhaŋ³³ȵai⁵⁵	Nameotuyenquang, Guncen, SouthernQiandong	11	U+0235
+^ŋ	ŋ	ŋui⁵⁵, ŋa²⁴	Nameotuyenquang, Nameocaobang, NorthernQiandong, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong	11	U+005e U+014b
+ɯ	ɯ	taɯ³³ʔu³⁵, taɯ³³	Nameotuyenquang, WesternQiandong	10	U+026f
+1$	<?>	tɛ1, ɣi1	Guncen	10	U+0031 U+0024
+^v	v	vu³⁵, vu5	Nameotuyenquang, Nameocaobang, Guncen	10	U+005e U+0076
+³⁵	³⁵	na⁵⁵mjau³⁵ɬa⁵³, kue³⁵tai⁵³	Nameotuyenquang, Nameocaobang, NorthernQiandong	9	U+00b3 U+2075
+ʔ	ʔ	taɯ³³ʔu³⁵, paʔ⁵³	Nameotuyenquang, Nameocaobang	9	U+0294
+^sʰ	sʰ	sʰou³³, sʰiŋ³³	Nameotuyenquang, WesternQiandong	8	U+005e U+0073 U+02b0
+^h	h	ho³³, hou²⁴	Nameotuyenquang, Guncen, WesternQiandong, EasternQiandong, NorthernQiandong	8	U+005e U+0068
+^qh	qh	qhaŋ³³ȵai⁵⁵, qhɔ³³tɕi³⁵	Nameotuyenquang	7	U+005e U+0071 U+0068
+3$	<?>	ɕiŋ3, qe3	Guncen, Yangpai	7	U+0033 U+0024
+^ʑ	ʑ	ʑeu⁴⁴, ʑu⁵⁵	EasternQiandong, WesternQiandong, NorthernQiandong, SouthernQiandong	7	U+005e U+0291
+^g	g	gəi³⁵, gəu³³	Nameotuyenquang, Nameocaobang	7	U+005e U+0067
+^kh	kh	khai³³khɔ³⁵, khɔ³³tɕi³⁵	Nameotuyenquang	6	U+005e U+006b U+0068
+¹³	¹³	pua¹³teu⁵³, pei¹³me⁵⁵	WesternQiandong, SouthernQiandong	6	U+00b9 U+00b3
+k	k	kin³³ku⁵⁵lu³³, ta³³kɔ¹¹	Nameotuyenquang	6	U+006b
+⁴⁴	⁴⁴	ȶɔŋ⁴⁴ŋoi³³, la⁴⁴la⁴⁴	WesternQiandong, EasternQiandong, Nameocaobang, SouthernQiandong	6	U+2074 U+2074
+³¹	³¹	tɕu³¹ʔ, tjam³¹ȵo²²	Nameocaobang, SouthernQiandong	5	U+00b3 U+00b9
+6$	<?>	tsəi3ma6, qʰaŋ3ȵuə6	Guncen	5	U+0036 U+0024
+kh	kh	saŋ⁵⁵khɬɔ³³, ɬa³³khai⁵⁵	Nameotuyenquang	5	U+006b U+0068
+v	v	pa³³va⁵³ni³⁵, vu⁵⁵va³³	Nameotuyenquang	5	U+0076
+^n̥	n̥	n̥ju¹³mo²², n̥ju³³mɛ¹³	NorthernQiandong, SouthernQiandong	5	U+005e U+006e U+0325
+^ɕʰ	ɕʰ	ɕʰe¹³, ɕʰaŋ³⁵	NorthernQiandong, WesternQiandong	5	U+005e U+0255 U+02b0
+s	s	pi⁵⁵sei⁵⁵, la³³sa¹¹	Nameotuyenquang, WesternQiandong, NorthernQiandong	5	U+0073
+^z	z	zi³³, zu³³	Nameotuyenquang, NorthernQiandong	5	U+005e U+007a
+æ	æ	læ³³, læ⁴⁴	WesternQiandong	4	U+00e6
+^u	u	u³³tɑi²⁴, u³⁵	Nameotuyenquang, Nameocaobang	4	U+005e U+0075
+^a	a	aŋ³³, a⁵⁵ȵin³³	Nameotuyenquang	4	U+005e U+0061
+5$	<?>	ɣi5, vu5	Guncen	4	U+0035 U+0024
+^ʔ	ʔ	ʔdjɔ³⁵, ʔɔŋ³³	Nameotuyenquang	4	U+005e U+0294
+3	<?>	tsəi3ma6, qʰaŋ3ȵai2	Guncen	4	U+0033
+^f	f	fan³³, fan²²	EasternQiandong, NorthernQiandong	4	U+005e U+0066
+¹¹	¹¹	pɔ¹¹mja²², pɔ¹¹la³³	WesternQiandong, Nameotuyenquang	4	U+00b9 U+00b9
+8$	<?>	ŋe8, tou8	Guncen	4	U+0038 U+0024
+h	h	pəu³⁵hau³³, khɬu³³həu⁵⁵	Nameotuyenquang	4	U+0068
+z	z	po⁵⁵zɛ¹³, la³³zu³⁵	Nameotuyenquang, NorthernQiandong	4	U+007a
+æ̃	æ̃	kuæ̃¹³, kæ̃⁴⁴	WesternQiandong	4	U+00e6 U+0303
+1	<?>	la1na1, ta1lɛ3	Guncen	4	U+0031
+²⁴¹$	²⁴¹	ta²⁴¹, ȵan²⁴¹	SouthernQiandong	3	U+00b2 U+2074 U+00b9 U+0024
+sʰ	sʰ	po³⁵sʰoŋ³⁵, laŋ⁵³sʰaŋ⁵⁵	Nameotuyenquang, NorthernQiandong	3	U+0073 U+02b0
+d	d	ʔdjoŋ³³ʔdai³⁵, ʔdjɔ³⁵	Nameotuyenquang	3	U+0064
+²¹$	²¹	to²¹, mei²¹	WesternQiandong	3	U+00b2 U+00b9 U+0024
+ʔ$	ʔ	tɕu³¹ʔ, ju³¹ʔ	Nameocaobang	3	U+0294 U+0024
+4$	<?>	ȵiŋ4, ȵai4	Guncen	3	U+0034 U+0024
+ɕu³³/1	<???>	ɕu³³/1	Zhenmin, Yangpai, Datu	3	U+0255 U+0075 U+00b3 U+00b3 U+002f U+0031
+pei¹³/3	<???>	pei¹³/3	Baixing	3	U+0070 U+0065 U+0069 U+00b9 U+00b3 U+002f U+0033
+^qʰ	qʰ	qʰaŋ3ȵai2, qʰaŋ³³nei²⁴	Guncen, EasternQiandong	3	U+005e U+0071 U+02b0
+_	_	ɕʰi³³m̥ aŋ⁴⁴, m̥ i³⁵	NorthernQiandong, Nameocaobang	3	U+005f
+^ɬʰ	ɬʰ	ɬʰa⁴⁴, ɬʰə⁴⁴	NorthernQiandong	3	U+005e U+026c U+02b0
+²¹²$	²¹²	njei²¹², njan²¹²	EasternQiandong	3	U+00b2 U+00b9 U+00b2 U+0024
+ɕ	ɕ	pai⁵³ɕin³³?, ɬin³⁵ɕiɑ⁴⁴	Nameotuyenquang, Nameocaobang	3	U+0255
+pe³³/1	<???>	pe³³/1	Zhenmin, Yangpai	3	U+0070 U+0065 U+00b3 U+00b3 U+002f U+0031
+^th	th	thau³³ləi³⁵, than⁵⁵	Nameotuyenquang	3	U+005e U+0074 U+0068
+²⁴	²⁴	ɕin²⁴teu²², qei²⁴qei²⁴	EasternQiandong	3	U+00b2 U+2074
+^kw	kw	kwen⁵³, kwe⁴⁴	SouthernQiandong	3	U+005e U+006b U+0077
+̃	<?>	tõi³⁵⁴, tɕõ³³tɕai⁵⁵	Nameocaobang, Nameotuyenquang	3	U+0303
+õ	õ	tõi³⁵⁴, tɕõ³³tɕai⁵⁵	Nameotuyenquang, Nameocaobang	2	U+00f5
+qa³³/1	<???>	qa³³/1	Zhenmin, Xiangao	2	U+0071 U+0061 U+00b3 U+00b3 U+002f U+0031
+pe²⁴/1	<???>	pe²⁴/1	Datu	2	U+0070 U+0065 U+00b2 U+2074 U+002f U+0031
+²²	²²	min²²tsɿ⁴⁴, lɑ²²lei²⁴	Nameocaobang, EasternQiandong	2	U+00b2 U+00b2
+³⁵⁴$	³⁵⁴	tõi³⁵⁴, kin³³nɑu³⁵⁴	Nameocaobang	2	U+00b3 U+2075 U+2074 U+0024
+ɬɒ³³/1	<???>	ɬɒ³³/1	Zhenmin	2	U+026c U+0252 U+00b3 U+00b3 U+002f U+0031
+pei³³/1	<???>	pei³³/1	Xiangao	2	U+0070 U+0065 U+0069 U+00b3 U+00b3 U+002f U+0031
+ɪ	ɪ	ku³³tɪn⁵³, ɬɪn⁵³	Nameotuyenquang	2	U+026a
+tsi³³/1	<???>	tsi³³/1	Zhenmin, Xiangao	2	U+0074 U+0073 U+0069 U+00b3 U+00b3 U+002f U+0031
+^x	x	xɔŋ¹¹, xi³⁵	Nameotuyenquang	2	U+005e U+0078
+ɬa³³/1	<???>	ɬa³³/1	Xiangao	2	U+026c U+0061 U+00b3 U+00b3 U+002f U+0031
+ph	ph	kin³³phi⁵⁵, ta⁵³phai³⁵	Nameotuyenquang	2	U+0070 U+0068
+ɬeŋ²⁴/1	<???>	ɬeŋ²⁴/1	Datu	2	U+026c U+0065 U+014b U+00b2 U+2074 U+002f U+0031
+ɬɑ³³/1	<???>	ɬɑ³³/1	Zhenmin	2	U+026c U+0251 U+00b3 U+00b3 U+002f U+0031
+^sh	sh	shaŋ⁵⁵, shɔ³³va⁵⁵	Nameotuyenquang	2	U+005e U+0073 U+0068
+ho³³/1	<???>	ho³³/1	Zhenmin	2	U+0068 U+006f U+00b3 U+00b3 U+002f U+0031
+pue⁴⁴/1	<???>	pue⁴⁴/1	Baixing	2	U+0070 U+0075 U+0065 U+2074 U+2074 U+002f U+0031
+dʑ	dʑ	kin³³dʑu⁵⁵	Nameotuyenquang	2	U+0064 U+0291
+ɣe⁴⁴/5	<???>	ɣe⁴⁴/5	Zhenmin, Datu	2	U+0263 U+0065 U+2074 U+2074 U+002f U+0035
+ɣ	ɣ	tɕei⁵³ɣəu³³, pɔ¹³ɣi⁴⁴	Nameotuyenquang, WesternQiandong	2	U+0263
+²¹	²¹	tɑ²¹le²⁴, tɑ²¹qɛ³³	Nameocaobang	2	U+00b2 U+00b9
+ɬɛ³³/1	<???>	ɬɛ³³/1	Yangpai	2	U+026c U+025b U+00b3 U+00b3 U+002f U+0031
+2$	<?>	qʰaŋ3ȵai2, ɬoŋ2	Guncen	2	U+0032 U+0024
+pe⁴⁴/5	<???>	pe⁴⁴/5	Zhenmin, Datu	2	U+0070 U+0065 U+2074 U+2074 U+002f U+0035
+^ph	ph	phuŋ³⁵, phai⁵³	Nameotuyenquang	2	U+005e U+0070 U+0068
+ɬau³³/1	<???>	ɬau³³/1	Xiangao	2	U+026c U+0061 U+0075 U+00b3 U+00b3 U+002f U+0031
+qh	qh	kin³³qhɔŋ⁵³, mua³³qha³³	Nameotuyenquang	2	U+0071 U+0068
+ke⁴⁴/5	<???>	ke⁴⁴/5	Zhenmin, Datu	2	U+006b U+0065 U+2074 U+2074 U+002f U+0035
+nze²¹/4	<???>	nze²¹/4	Zhenmin, Datu	2	U+006e U+007a U+0065 U+00b2 U+00b9 U+002f U+0034
+^ɔ	ɔ	ɔ⁵³, ɔ³³tai³³	Nameotuyenquang	2	U+005e U+0254
+ɬoŋ⁴⁴/1	<???>	ɬoŋ⁴⁴/1	Baixing	2	U+026c U+006f U+014b U+2074 U+2074 U+002f U+0031
+^ȶ	ȶ	ȶɔŋ⁴⁴ŋoi³³, ȶe³⁵	Nameocaobang	2	U+005e U+0236
+³²$	³²	ljəu³², ta³²	Nameotuyenquang	2	U+00b3 U+00b2 U+0024
+sʰoŋ¹³/3	<???>	sʰoŋ¹³/3	Baixing	1	U+0073 U+02b0 U+006f U+014b U+00b9 U+00b3 U+002f U+0033
+nɛ³³/1	<???>	nɛ³³/1	Yangpai	1	U+006e U+025b U+00b3 U+00b3 U+002f U+0031
+ʑ	ʑ	ta1ʑiu5	Guncen	1	U+0291
+li⁴⁴/5	<???>	li⁴⁴/5	Zhenmin	1	U+006c U+0069 U+2074 U+2074 U+002f U+0035
+ŋɑ²¹²/8	<???>	ŋɑ²¹²/8	Zhenmin	1	U+014b U+0251 U+00b2 U+00b9 U+00b2 U+002f U+0038
+mɑŋ⁴⁴/5	<???>	mɑŋ⁴⁴/5	Zhenmin	1	U+006d U+0251 U+014b U+2074 U+2074 U+002f U+0035
+pʰo³⁴/1	<???>	pʰo³⁴/1	Datu	1	U+0070 U+02b0 U+006f U+00b3 U+2074 U+002f U+0031
+paŋ²²/3	<???>	paŋ²²/3	Xiangao	1	U+0070 U+0061 U+014b U+00b2 U+00b2 U+002f U+0033
+tɕh	tɕh	u³³tɕhui⁵³	Nameotuyenquang	1	U+0074 U+0255 U+0068
+tu⁵³/8	<???>	tu⁵³/8	Yangpai	1	U+0074 U+0075 U+2075 U+00b3 U+002f U+0038
+pe¹³; njo²⁴¹	<???>	pe¹³; njo²⁴¹	SouthernQiandong	1	U+0070 U+0065 U+00b9 U+00b3 U+003b U+0020 U+006e U+006a U+006f U+00b2 U+2074 U+00b9
+nze²²/2	<???>	nze²²/2	Datu	1	U+006e U+007a U+0065 U+00b2 U+00b2 U+002f U+0032
+qei³³/1	<???>	qei³³/1	Yangpai	1	U+0071 U+0065 U+0069 U+00b3 U+00b3 U+002f U+0031
+ȵɑŋ²²/3	<???>	ȵɑŋ²²/3	Xiangao	1	U+0235 U+0251 U+014b U+00b2 U+00b2 U+002f U+0033
+tɑu⁵⁵/2	<???>	tɑu⁵⁵/2	Yangpai	1	U+0074 U+0251 U+0075 U+2075 U+2075 U+002f U+0032
+ɬjau²²/3	<???>	ɬjau²²/3	Xiangao	1	U+026c U+006a U+0061 U+0075 U+00b2 U+00b2 U+002f U+0033
+lai²²/2	<???>	lai²²/2	Datu	1	U+006c U+0061 U+0069 U+00b2 U+00b2 U+002f U+0032
+ɬɑu⁴⁴/5	<???>	ɬɑu⁴⁴/5	Datu	1	U+026c U+0251 U+0075 U+2074 U+2074 U+002f U+0035
+ɣi³³/5	<???>	ɣi³³/5	Baixing	1	U+0263 U+0069 U+00b3 U+00b3 U+002f U+0035
+g	g	ta³³goŋ⁵⁵	Nameotuyenquang	1	U+0067
+qei⁴⁴/5	<???>	qei⁴⁴/5	Baixing	1	U+0071 U+0065 U+0069 U+2074 U+2074 U+002f U+0035
+ɬjoŋ⁴²/2	<???>	ɬjoŋ⁴²/2	Xiangao	1	U+026c U+006a U+006f U+014b U+2074 U+00b2 U+002f U+0032
+nai¹²/6	<???>	nai¹²/6	Datu	1	U+006e U+0061 U+0069 U+00b9 U+00b2 U+002f U+0036
+tau¹²/4	<???>	tau¹²/4	Xiangao	1	U+0074 U+0061 U+0075 U+00b9 U+00b2 U+002f U+0034
+pʰe²²/7	<???>	pʰe²²/7	Baixing	1	U+0070 U+02b0 U+0065 U+00b2 U+00b2 U+002f U+0037
+keŋ³³/1	<???>	keŋ³³/1	Zhenmin	1	U+006b U+0065 U+014b U+00b3 U+00b3 U+002f U+0031
+[na⁵⁵]mjau³⁵ɬa⁵³	<???>	[na⁵⁵]mjau³⁵ɬa⁵³	Nameotuyenquang	1	U+005b U+006e U+0061 U+2075 U+2075 U+005d U+006d U+006a U+0061 U+0075 U+00b3 U+2075 U+026c U+0061 U+2075 U+00b3
+hɑu³³/1	<???>	hɑu³³/1	Xiangao	1	U+0068 U+0251 U+0075 U+00b3 U+00b3 U+002f U+0031
+nɑu²³/6	<???>	nɑu²³/6	Yangpai	1	U+006e U+0251 U+0075 U+00b2 U+00b3 U+002f U+0036
+nɑŋ⁴⁴/3	<???>	nɑŋ⁴⁴/3	Yangpai	1	U+006e U+0251 U+014b U+2074 U+2074 U+002f U+0033
+lɤu³³/5	<???>	lɤu³³/5	Baixing	1	U+006c U+0264 U+0075 U+00b3 U+00b3 U+002f U+0035
+fɑŋ³³/1	<???>	fɑŋ³³/1	Datu	1	U+0066 U+0251 U+014b U+00b3 U+00b3 U+002f U+0031
+tai²²/3	<???>	tai²²/3	Xiangao	1	U+0074 U+0061 U+0069 U+00b2 U+00b2 U+002f U+0033
+?$	<?>	pai⁵³ɕin³³?	Nameotuyenquang	1	U+003f U+0024
+⁰²	⁰²	tə⁰²paŋ⁵⁵	NorthernQiandong	1	U+2070 U+00b2
+kwɛ⁵⁵/2	<???>	kwɛ⁵⁵/2	Baixing	1	U+006b U+0077 U+025b U+2075 U+2075 U+002f U+0032
+ta³³/1	<???>	ta³³/1	Zhenmin	1	U+0074 U+0061 U+00b3 U+00b3 U+002f U+0031
+tu⁵³/2	<???>	tu⁵³/2	Zhenmin	1	U+0074 U+0075 U+2075 U+00b3 U+002f U+0032
+ȵe²²/4	<???>	ȵe²²/4	Yangpai	1	U+0235 U+0065 U+00b2 U+00b2 U+002f U+0034
+lje⁴²/2	<???>	lje⁴²/2	Xiangao	1	U+006c U+006a U+0065 U+2074 U+00b2 U+002f U+0032
+tou¹²/4	<???>	tou¹²/4	Datu	1	U+0074 U+006f U+0075 U+00b9 U+00b2 U+002f U+0034
+tse³⁵/3	<???>	tse³⁵/3	Zhenmin	1	U+0074 U+0073 U+0065 U+00b3 U+2075 U+002f U+0033
+soŋ²²/3	<???>	soŋ²²/3	Xiangao	1	U+0073 U+006f U+014b U+00b2 U+00b2 U+002f U+0033
+qeŋ³⁵/3	<???>	qeŋ³⁵/3	Zhenmin	1	U+0071 U+0065 U+014b U+00b3 U+2075 U+002f U+0033
+b	b	la³³baŋ⁵³	Nameotuyenquang	1	U+0062
+mei⁴⁴/3	<???>	mei⁴⁴/3	Yangpai	1	U+006d U+0065 U+0069 U+2074 U+2074 U+002f U+0033
+ȶəu⁵⁵/2	<???>	ȶəu⁵⁵/2	Yangpai	1	U+0236 U+0259 U+0075 U+2075 U+2075 U+002f U+0032
+ha⁴⁴/1	<???>	ha⁴⁴/1	Baixing	1	U+0068 U+0061 U+2074 U+2074 U+002f U+0031
+nei⁴⁴/1	<???>	nei⁴⁴/1	Baixing	1	U+006e U+0065 U+0069 U+2074 U+2074 U+002f U+0031
+nzu²³/6	<???>	nzu²³/6	Yangpai	1	U+006e U+007a U+0075 U+00b2 U+00b3 U+002f U+0036
+maŋ³³/5	<???>	maŋ³³/5	Baixing	1	U+006d U+0061 U+014b U+00b3 U+00b3 U+002f U+0035
+ŋa²¹²/8	<???>	ŋa²¹²/8	Xiangao	1	U+014b U+0061 U+00b2 U+00b9 U+00b2 U+002f U+0038
+⁴⁵³$	⁴⁵³	mɑŋ̃ ⁴⁵³	Nameocaobang	1	U+2074 U+2075 U+00b3 U+0024
+ɬɤu³³/1	<???>	ɬɤu³³/1	Yangpai	1	U+026c U+0264 U+0075 U+00b3 U+00b3 U+002f U+0031
+ɣei³³/1	<???>	ɣei³³/1	Xiangao	1	U+0263 U+0065 U+0069 U+00b3 U+00b3 U+002f U+0031
+tɑ⁴⁴/3	<???>	tɑ⁴⁴/3	Yangpai	1	U+0074 U+0251 U+2074 U+2074 U+002f U+0033
+ɬjɤu⁴⁴/3	<???>	ɬjɤu⁴⁴/3	Yangpai	1	U+026c U+006a U+0264 U+0075 U+2074 U+2074 U+002f U+0033
+te³³/1	<???>	te³³/1	Yangpai	1	U+0074 U+0065 U+00b3 U+00b3 U+002f U+0031
+ɬo⁴⁴/1	<???>	ɬo⁴⁴/1	Baixing	1	U+026c U+006f U+2074 U+2074 U+002f U+0031
+pɑ³⁵/3	<???>	pɑ³⁵/3	Zhenmin	1	U+0070 U+0251 U+00b3 U+2075 U+002f U+0033
+ȶai²²/2	<???>	ȶai²²/2	Datu	1	U+0236 U+0061 U+0069 U+00b2 U+00b2 U+002f U+0032
+lɛ⁴⁴/3	<???>	lɛ⁴⁴/3	Yangpai	1	U+006c U+025b U+2074 U+2074 U+002f U+0033
+ki²¹/5	<???>	ki²¹/5	Yangpai	1	U+006b U+0069 U+00b2 U+00b9 U+002f U+0035
+pa³³/1	<???>	pa³³/1	Zhenmin	1	U+0070 U+0061 U+00b3 U+00b3 U+002f U+0031
+soŋ³³/3	<???>	soŋ³³/3	Datu	1	U+0073 U+006f U+014b U+00b3 U+00b3 U+002f U+0033
+tsʰauŋ³³, sʰɔŋ³³	<???>	tsʰauŋ³³, sʰɔŋ³³	Nameotuyenquang	1	U+0074 U+0073 U+02b0 U+0061 U+0075 U+014b U+00b3 U+00b3 U+002c U+0020 U+0073 U+02b0 U+0254 U+014b U+00b3 U+00b3
+ŋ̃	ŋ̃	mɑŋ̃ ⁴⁵³	Nameocaobang	1	U+014b U+0303
+tsei³³/3	<???>	tsei³³/3	Datu	1	U+0074 U+0073 U+0065 U+0069 U+00b3 U+00b3 U+002f U+0033
+pɑ³⁵(ɕiɑ³¹²u³³)	<???>	pɑ³⁵(ɕiɑ³¹²u³³)	Nameocaobang	1	U+0070 U+0251 U+00b3 U+2075 U+0028 U+0255 U+0069 U+0251 U+00b3 U+00b9 U+00b2 U+0075 U+00b3 U+00b3 U+0029
+lei³³/1	<???>	lei³³/1	Yangpai	1	U+006c U+0065 U+0069 U+00b3 U+00b3 U+002f U+0031
+pei²⁴/1	<???>	pei²⁴/1	Datu	1	U+0070 U+0065 U+0069 U+00b2 U+2074 U+002f U+0031
+ȵʑeŋ²¹/4	<???>	ȵʑeŋ²¹/4	Zhenmin	1	U+0235 U+0291 U+0065 U+014b U+00b2 U+00b9 U+002f U+0034
+peŋ³³/3	<???>	peŋ³³/3	Datu	1	U+0070 U+0065 U+014b U+00b3 U+00b3 U+002f U+0033
+la⁴⁴/5	<???>	la⁴⁴/5	Zhenmin	1	U+006c U+0061 U+2074 U+2074 U+002f U+0035
+nze⁵³/2	<???>	nze⁵³/2	Zhenmin	1	U+006e U+007a U+0065 U+2075 U+00b3 U+002f U+0032
+pai³³/1	<???>	pai³³/1	Xiangao	1	U+0070 U+0061 U+0069 U+00b3 U+00b3 U+002f U+0031
+feŋ⁵³/2	<???>	feŋ⁵³/2	Zhenmin	1	U+0066 U+0065 U+014b U+2075 U+00b3 U+002f U+0032
+^j	j	ju³¹ʔ	Nameocaobang	1	U+005e U+006a
+fu³³/1	<???>	fu³³/1	Yangpai	1	U+0066 U+0075 U+00b3 U+00b3 U+002f U+0031
+tɕu³⁵/8	<???>	tɕu³⁵/8	Datu	1	U+0074 U+0255 U+0075 U+00b3 U+2075 U+002f U+0038
+ȵoŋ¹³/3	<???>	ȵoŋ¹³/3	Baixing	1	U+0235 U+006f U+014b U+00b9 U+00b3 U+002f U+0033
+lje⁵⁵/2	<???>	lje⁵⁵/2	Baixing	1	U+006c U+006a U+0065 U+2075 U+2075 U+002f U+0032
+ɬou²⁴/1	<???>	ɬou²⁴/1	Datu	1	U+026c U+006f U+0075 U+00b2 U+2074 U+002f U+0031
+lɛ³³/5	<???>	lɛ³³/5	Baixing	1	U+006c U+025b U+00b3 U+00b3 U+002f U+0035
+qɑŋ³³/3	<???>	qɑŋ³³/3	Datu	1	U+0071 U+0251 U+014b U+00b3 U+00b3 U+002f U+0033
+ȵɑŋ²¹/4	<???>	ȵɑŋ²¹/4	Datu	1	U+0235 U+0251 U+014b U+00b2 U+00b9 U+002f U+0034
+ɬjɒ³³/3	<???>	ɬjɒ³³/3	Datu	1	U+026c U+006a U+0252 U+00b3 U+00b3 U+002f U+0033
+n̥oŋ²⁴/1	<???>	n̥oŋ²⁴/1	Datu	1	U+006e U+0325 U+006f U+014b U+00b2 U+2074 U+002f U+0031
+qe⁴⁴/1	<???>	qe⁴⁴/1	Baixing	1	U+0071 U+0065 U+2074 U+2074 U+002f U+0031
+qan²²/3	<???>	qan²²/3	Xiangao	1	U+0071 U+0061 U+006e U+00b2 U+00b2 U+002f U+0033
+ki³³/5	<???>	ki³³/5	Baixing	1	U+006b U+0069 U+00b3 U+00b3 U+002f U+0035
+ȵoŋ⁴⁴/3	<???>	ȵoŋ⁴⁴/3	Yangpai	1	U+0235 U+006f U+014b U+2074 U+2074 U+002f U+0033
+kan³³/1	<???>	kan³³/1	Xiangao	1	U+006b U+0061 U+006e U+00b3 U+00b3 U+002f U+0031
+ȵʑɑŋ³⁵/3	<???>	ȵʑɑŋ³⁵/3	Zhenmin	1	U+0235 U+0291 U+0251 U+014b U+00b3 U+2075 U+002f U+0033
+naŋ¹³/3	<???>	naŋ¹³/3	Baixing	1	U+006e U+0061 U+014b U+00b9 U+00b3 U+002f U+0033
+sa³¹; saŋ⁵³	<???>	sa³¹; saŋ⁵³	SouthernQiandong	1	U+0073 U+0061 U+00b3 U+00b9 U+003b U+0020 U+0073 U+0061 U+014b U+2075 U+00b3
+qeŋ²⁴/1	<???>	qeŋ²⁴/1	Datu	1	U+0071 U+0065 U+014b U+00b2 U+2074 U+002f U+0031
+puei³⁵/5	<???>	puei³⁵/5	Xiangao	1	U+0070 U+0075 U+0065 U+0069 U+00b3 U+2075 U+002f U+0035
+ŋe⁵³/8	<???>	ŋe⁵³/8	Baixing	1	U+014b U+0065 U+2075 U+00b3 U+002f U+0038
+pʰɑ²⁴/1	<???>	pʰɑ²⁴/1	Datu	1	U+0070 U+02b0 U+0251 U+00b2 U+2074 U+002f U+0031
+ɕʰɛ¹³/3	<???>	ɕʰɛ¹³/3	Baixing	1	U+0255 U+02b0 U+025b U+00b9 U+00b3 U+002f U+0033
+soŋ⁴⁴/3	<???>	soŋ⁴⁴/3	Yangpai	1	U+0073 U+006f U+014b U+2074 U+2074 U+002f U+0033
+lɑu²¹/5	<???>	lɑu²¹/5	Yangpai	1	U+006c U+0251 U+0075 U+00b2 U+00b9 U+002f U+0035
+y	y	tjuŋ²⁴njy⁵³	EasternQiandong	1	U+0079
+tɦɒ²¹/4	<???>	tɦɒ²¹/4	Zhenmin	1	U+0074 U+0266 U+0252 U+00b2 U+00b9 U+002f U+0034
+⁴⁵³	⁴⁵³	tsẽi⁴⁵³mɑ²²	Nameocaobang	1	U+2074 U+2075 U+00b3
+tse³³/3	<???>	tse³³/3	Datu	1	U+0074 U+0073 U+0065 U+00b3 U+00b3 U+002f U+0033
+f	f	pu⁴⁴fu¹³	SouthernQiandong	1	U+0066
+ɬjoŋ²²/2	<???>	ɬjoŋ²²/2	Datu	1	U+026c U+006a U+006f U+014b U+00b2 U+00b2 U+002f U+0032
+ɣi²⁴/1	<???>	ɣi²⁴/1	Baixing	1	U+0263 U+0069 U+00b2 U+2074 U+002f U+0031
+sʰɑŋ³³/3	<???>	sʰɑŋ³³/3	Datu	1	U+0073 U+02b0 U+0251 U+014b U+00b3 U+00b3 U+002f U+0033
+saŋ²²/2	<???>	saŋ²²/2	Datu	1	U+0073 U+0061 U+014b U+00b2 U+00b2 U+002f U+0032
+nzau¹²/6	<???>	nzau¹²/6	Datu	1	U+006e U+007a U+0061 U+0075 U+00b9 U+00b2 U+002f U+0036
+pɑ²¹/5	<???>	pɑ²¹/5	Yangpai	1	U+0070 U+0251 U+00b2 U+00b9 U+002f U+0035
+feŋ³⁵/3	<???>	feŋ³⁵/3	Zhenmin	1	U+0066 U+0065 U+014b U+00b3 U+2075 U+002f U+0033
+fan²²/3	<???>	fan²²/3	Xiangao	1	U+0066 U+0061 U+006e U+00b2 U+00b2 U+002f U+0033
+pi³³/1	<???>	pi³³/1	Yangpai	1	U+0070 U+0069 U+00b3 U+00b3 U+002f U+0031
+mu²¹/4	<???>	mu²¹/4	Datu	1	U+006d U+0075 U+00b2 U+00b9 U+002f U+0034
+nɑu⁵⁵/2	<???>	nɑu⁵⁵/2	Yangpai	1	U+006e U+0251 U+0075 U+2075 U+2075 U+002f U+0032
+tɤu⁵³/8	<???>	tɤu⁵³/8	Baixing	1	U+0074 U+0264 U+0075 U+2075 U+00b3 U+002f U+0038
+ɬjoŋ⁵³/2	<???>	ɬjoŋ⁵³/2	Zhenmin	1	U+026c U+006a U+006f U+014b U+2075 U+00b3 U+002f U+0032
+neŋ²²/2	<???>	neŋ²²/2	Xiangao	1	U+006e U+0065 U+014b U+00b2 U+00b2 U+002f U+0032
+mjɛ⁴²/2	<???>	mjɛ⁴²/2	Baixing	1	U+006d U+006a U+025b U+2074 U+00b2 U+002f U+0032
+hɤu⁴⁴/1	<???>	hɤu⁴⁴/1	Baixing	1	U+0068 U+0264 U+0075 U+2074 U+2074 U+002f U+0031
+le⁴⁴/1	<???>	le⁴⁴/1	Baixing	1	U+006c U+0065 U+2074 U+2074 U+002f U+0031
+fɑ⁴⁴/3	<???>	fɑ⁴⁴/3	Yangpai	1	U+0066 U+0251 U+2074 U+2074 U+002f U+0033
+ta³⁵/3	<???>	ta³⁵/3	Zhenmin	1	U+0074 U+0061 U+00b3 U+2075 U+002f U+0033
+tai³³/1	<???>	tai³³/1	Xiangao	1	U+0074 U+0061 U+0069 U+00b3 U+00b3 U+002f U+0031
+nzɑ²²/2	<???>	nzɑ²²/2	Yangpai	1	U+006e U+007a U+0251 U+00b2 U+00b2 U+002f U+0032
+tɕu²¹²/8	<???>	tɕu²¹²/8	Zhenmin	1	U+0074 U+0255 U+0075 U+00b2 U+00b9 U+00b2 U+002f U+0038
+lei¹³/3	<???>	lei¹³/3	Baixing	1	U+006c U+0065 U+0069 U+00b9 U+00b3 U+002f U+0033
+kɑŋ²⁴/1	<???>	kɑŋ²⁴/1	Datu	1	U+006b U+0251 U+014b U+00b2 U+2074 U+002f U+0031
+ɕʰuɤ⁴⁴/1	<???>	ɕʰuɤ⁴⁴/1	Baixing	1	U+0255 U+02b0 U+0075 U+0264 U+2074 U+2074 U+002f U+0031
+^d	d	djɔ³³	Nameotuyenquang	1	U+005e U+0064
+ɣai⁴⁴/5	<???>	ɣai⁴⁴/5	Datu	1	U+0263 U+0061 U+0069 U+2074 U+2074 U+002f U+0035
+qɛ¹³/3	<???>	qɛ¹³/3	Baixing	1	U+0071 U+025b U+00b9 U+00b3 U+002f U+0033
+kwɛ¹³/3	<???>	kwɛ¹³/3	Baixing	1	U+006b U+0077 U+025b U+00b9 U+00b3 U+002f U+0033
+li²²/2	<???>	li²²/2	Datu	1	U+006c U+0069 U+00b2 U+00b2 U+002f U+0032
+ɐ	ɐ	lɐu³³	Nameocaobang	1	U+0250
+ȶu⁵³/2	<???>	ȶu⁵³/2	Zhenmin	1	U+0236 U+0075 U+2075 U+00b3 U+002f U+0032
+ɕo³³/1	<???>	ɕo³³/1	Xiangao	1	U+0255 U+006f U+00b3 U+00b3 U+002f U+0031
+lu⁴⁴/5	<???>	lu⁴⁴/5	Zhenmin	1	U+006c U+0075 U+2074 U+2074 U+002f U+0035
+tsɑ²⁴/1	<???>	tsɑ²⁴/1	Datu	1	U+0074 U+0073 U+0251 U+00b2 U+2074 U+002f U+0031
+ẽ	ẽ	tsẽi⁴⁵³mɑ²²	Nameocaobang	1	U+1ebd
+nzɑ⁵⁵/2	<???>	nzɑ⁵⁵/2	Yangpai	1	U+006e U+007a U+0251 U+2075 U+2075 U+002f U+0032
+ɬju³⁵/3	<???>	ɬju³⁵/3	Zhenmin	1	U+026c U+006a U+0075 U+00b3 U+2075 U+002f U+0033
+to⁴²/2	<???>	to⁴²/2	Xiangao	1	U+0074 U+006f U+2074 U+00b2 U+002f U+0032
+qɑ³³/1	<???>	qɑ³³/1	Zhenmin	1	U+0071 U+0251 U+00b3 U+00b3 U+002f U+0031
+nu⁵³/2	<???>	nu⁵³/2	Zhenmin	1	U+006e U+0075 U+2075 U+00b3 U+002f U+0032
+leŋ³³/2	<???>	leŋ³³/2	Datu	1	U+006c U+0065 U+014b U+00b3 U+00b3 U+002f U+0032
+ɣi³³/1	<???>	ɣi³³/1	Yangpai	1	U+0263 U+0069 U+00b3 U+00b3 U+002f U+0031
+fəŋ3,
+qʰoŋ5loŋ6	<???>	fəŋ3,
+qʰoŋ5loŋ6	Guncen	1	U+0066 U+0259 U+014b U+0033 U+002c U+000a U+0071 U+02b0 U+006f U+014b U+0035 U+006c U+006f U+014b U+0036
+tsɛ⁴⁴/3	<???>	tsɛ⁴⁴/3	Yangpai	1	U+0074 U+0073 U+025b U+2074 U+2074 U+002f U+0033
+kɛ⁴⁴/1	<???>	kɛ⁴⁴/1	Baixing	1	U+006b U+025b U+2074 U+2074 U+002f U+0031
+ɬɑ²⁴/1	<???>	ɬɑ²⁴/1	Datu	1	U+026c U+0251 U+00b2 U+2074 U+002f U+0031
+mei⁵⁵/2	<???>	mei⁵⁵/2	Baixing	1	U+006d U+0065 U+0069 U+2075 U+2075 U+002f U+0032
+tɦɤu²²/4	<???>	tɦɤu²²/4	Yangpai	1	U+0074 U+0266 U+0264 U+0075 U+00b2 U+00b2 U+002f U+0034
+ɕɦoŋ²²/6	<???>	ɕɦoŋ²²/6	Zhenmin	1	U+0255 U+0266 U+006f U+014b U+00b2 U+00b2 U+002f U+0036
+ɬo³³/1	<???>	ɬo³³/1	Yangpai	1	U+026c U+006f U+00b3 U+00b3 U+002f U+0031
+tɛ⁴⁴/1	<???>	tɛ⁴⁴/1	Baixing	1	U+0074 U+025b U+2074 U+2074 U+002f U+0031
+lei⁵⁵/2	<???>	lei⁵⁵/2	Yangpai	1	U+006c U+0065 U+0069 U+2075 U+2075 U+002f U+0032
+maŋ³⁵/5	<???>	maŋ³⁵/5	Xiangao	1	U+006d U+0061 U+014b U+00b3 U+2075 U+002f U+0035
+pʰe²⁴/7	<???>	pʰe²⁴/7	Xiangao	1	U+0070 U+02b0 U+0065 U+00b2 U+2074 U+002f U+0037
+mɑŋ³⁵/3	<???>	mɑŋ³⁵/3	Zhenmin	1	U+006d U+0251 U+014b U+00b3 U+2075 U+002f U+0033
+tei²⁴/1	<???>	tei²⁴/1	Datu	1	U+0074 U+0065 U+0069 U+00b2 U+2074 U+002f U+0031
+ɬoŋ⁵⁵/2	<???>	ɬoŋ⁵⁵/2	Baixing	1	U+026c U+006f U+014b U+2075 U+2075 U+002f U+0032
+seŋ⁵³/2	<???>	seŋ⁵³/2	Zhenmin	1	U+0073 U+0065 U+014b U+2075 U+00b3 U+002f U+0032
+li³⁵/5	<???>	li³⁵/5	Xiangao	1	U+006c U+0069 U+00b3 U+2075 U+002f U+0035
+lɑ³⁵/3	<???>	lɑ³⁵/3	Zhenmin	1	U+006c U+0251 U+00b3 U+2075 U+002f U+0033
+qa³³pæ⁴⁴;
+tju³³ŋaŋ²¹	<???>	qa³³pæ⁴⁴;
+tju³³ŋaŋ²¹	WesternQiandong	1	U+0071 U+0061 U+00b3 U+00b3 U+0070 U+00e6 U+2074 U+2074 U+003b U+000a U+0074 U+006a U+0075 U+00b3 U+00b3 U+014b U+0061 U+014b U+00b2 U+00b9
+tsəi³¹, soŋ³⁵	<???>	tsəi³¹, soŋ³⁵	Nameocaobang	1	U+0074 U+0073 U+0259 U+0069 U+00b3 U+00b9 U+002c U+0020 U+0073 U+006f U+014b U+00b3 U+2075
+ȵei¹²/2	<???>	ȵei¹²/2	Xiangao	1	U+0235 U+0065 U+0069 U+00b9 U+00b2 U+002f U+0032
+fɑ⁵⁵/2	<???>	fɑ⁵⁵/2	Yangpai	1	U+0066 U+0251 U+2075 U+2075 U+002f U+0032
+ɬɑ⁴⁴/5	<???>	ɬɑ⁴⁴/5	Datu	1	U+026c U+0251 U+2074 U+2074 U+002f U+0035
+pa²⁴/7	<???>	pa²⁴/7	Zhenmin	1	U+0070 U+0061 U+00b2 U+2074 U+002f U+0037
+la³³/5	<???>	la³³/5	Baixing	1	U+006c U+0061 U+00b3 U+00b3 U+002f U+0035
+tɕu⁵³/8	<???>	tɕu⁵³/8	Yangpai	1	U+0074 U+0255 U+0075 U+2075 U+00b3 U+002f U+0038
+tsəi1, tɕiu6	<???>	tsəi1, tɕiu6	Guncen	1	U+0074 U+0073 U+0259 U+0069 U+0031 U+002c U+0020 U+0074 U+0255 U+0069 U+0075 U+0036
+tɑu³⁵/8	<???>	tɑu³⁵/8	Datu	1	U+0074 U+0251 U+0075 U+00b3 U+2075 U+002f U+0038
+la²²/3	<???>	la²²/3	Xiangao	1	U+006c U+0061 U+00b2 U+00b2 U+002f U+0033
+pɑ³³/1	<???>	pɑ³³/1	Yangpai	1	U+0070 U+0251 U+00b3 U+00b3 U+002f U+0031
+ɬo³⁵/5	<???>	ɬo³⁵/5	Datu	1	U+026c U+006f U+00b3 U+2075 U+002f U+0035
+[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	<???>	[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	Nameotuyenquang	1	U+005b U+014b U+025b U+00b9 U+00b9 U+005d U+0074 U+0254 U+2075 U+00b3 U+0074 U+0255 U+0068 U+0069 U+006e U+00b3 U+2075
+ɣei³⁵/5	<???>	ɣei³⁵/5	Xiangao	1	U+0263 U+0065 U+0069 U+00b3 U+2075 U+002f U+0035
+pjo¹³/3	<???>	pjo¹³/3	Baixing	1	U+0070 U+006a U+006f U+00b9 U+00b3 U+002f U+0033
+m̥ ɑi⁴⁴/5	<???>	m̥ ɑi⁴⁴/5	Datu	1	U+006d U+0325 U+0020 U+0251 U+0069 U+2074 U+2074 U+002f U+0035
+mei²⁴/2	<???>	mei²⁴/2	Baixing	1	U+006d U+0065 U+0069 U+00b2 U+2074 U+002f U+0032
+ljɑŋ⁵³/2	<???>	ljɑŋ⁵³/2	Zhenmin	1	U+006c U+006a U+0251 U+014b U+2075 U+00b3 U+002f U+0032
+ŋɑ³⁵/8	<???>	ŋɑ³⁵/8	Datu	1	U+014b U+0251 U+00b3 U+2075 U+002f U+0038
+ɬjoŋ⁵⁵/2	<???>	ɬjoŋ⁵⁵/2	Yangpai	1	U+026c U+006a U+006f U+014b U+2075 U+2075 U+002f U+0032
+ɣe²⁴/1	<???>	ɣe²⁴/1	Datu	1	U+0263 U+0065 U+00b2 U+2074 U+002f U+0031
+^tɕh	tɕh	tɕhin³⁵	Nameotuyenquang	1	U+005e U+0074 U+0255 U+0068
+sɦoŋ¹²/6	<???>	sɦoŋ¹²/6	Datu	1	U+0073 U+0266 U+006f U+014b U+00b9 U+00b2 U+002f U+0036
+le²¹/5	<???>	le²¹/5	Yangpai	1	U+006c U+0065 U+00b2 U+00b9 U+002f U+0035
+no⁵³/6	<???>	no⁵³/6	Xiangao	1	U+006e U+006f U+2075 U+00b3 U+002f U+0036
+lo³⁵/5	<???>	lo³⁵/5	Xiangao	1	U+006c U+006f U+00b3 U+2075 U+002f U+0035
+me²²/3	<???>	me²²/3	Xiangao	1	U+006d U+0065 U+00b2 U+00b2 U+002f U+0033
+fɑŋ²²/2	<???>	fɑŋ²²/2	Datu	1	U+0066 U+0251 U+014b U+00b2 U+00b2 U+002f U+0032
+toŋ⁵⁵/2	<???>	toŋ⁵⁵/2	Baixing	1	U+0074 U+006f U+014b U+2075 U+2075 U+002f U+0032
+vu⁴⁴/5	<???>	vu⁴⁴/5	Zhenmin	1	U+0076 U+0075 U+2074 U+2074 U+002f U+0035
+nza²²/6	<???>	nza²²/6	Zhenmin	1	U+006e U+007a U+0061 U+00b2 U+00b2 U+002f U+0036
+qɛ³³/1	<???>	qɛ³³/1	Yangpai	1	U+0071 U+025b U+00b3 U+00b3 U+002f U+0031
+san⁴²/2	<???>	san⁴²/2	Xiangao	1	U+0073 U+0061 U+006e U+2074 U+00b2 U+002f U+0032
+mei⁴²/4	<???>	mei⁴²/4	Baixing	1	U+006d U+0065 U+0069 U+2074 U+00b2 U+002f U+0034
+mɑŋ²¹/5	<???>	mɑŋ²¹/5	Yangpai	1	U+006d U+0251 U+014b U+00b2 U+00b9 U+002f U+0035
+hau³³/1	<???>	hau³³/1	Xiangao	1	U+0068 U+0061 U+0075 U+00b3 U+00b3 U+002f U+0031
+ȵe⁴²/2	<???>	ȵe⁴²/2	Xiangao	1	U+0235 U+0065 U+2074 U+00b2 U+002f U+0032
+ɣi²¹/5	<???>	ɣi²¹/5	Yangpai	1	U+0263 U+0069 U+00b2 U+00b9 U+002f U+0035
+ɬai⁴⁴/5	<???>	ɬai⁴⁴/5	Xiangao	1	U+026c U+0061 U+0069 U+2074 U+2074 U+002f U+0035
+ɣei³³sʰai³⁵, qai³⁵	<???>	ɣei³³sʰai³⁵, qai³⁵	Nameotuyenquang	1	U+0263 U+0065 U+0069 U+00b3 U+00b3 U+0073 U+02b0 U+0061 U+0069 U+00b3 U+2075 U+002c U+0020 U+0071 U+0061 U+0069 U+00b3 U+2075
+ke³³/1	<???>	ke³³/1	Yangpai	1	U+006b U+0065 U+00b3 U+00b3 U+002f U+0031
+tsɑ⁴⁴/3	<???>	tsɑ⁴⁴/3	Yangpai	1	U+0074 U+0073 U+0251 U+2074 U+2074 U+002f U+0033
+m̥	m̥	ɕʰi³³m̥ aŋ⁴⁴	NorthernQiandong	1	U+006d U+0325
+me¹³/3	<???>	me¹³/3	Baixing	1	U+006d U+0065 U+00b9 U+00b3 U+002f U+0033
+pi⁴⁴/3	<???>	pi⁴⁴/3	Yangpai	1	U+0070 U+0069 U+2074 U+2074 U+002f U+0033
+mɑ²¹/4	<???>	mɑ²¹/4	Zhenmin	1	U+006d U+0251 U+00b2 U+00b9 U+002f U+0034
+ɕeŋ³⁵/3	<???>	ɕeŋ³⁵/3	Zhenmin	1	U+0255 U+0065 U+014b U+00b3 U+2075 U+002f U+0033
+ɕe⁴⁴/3	<???>	ɕe⁴⁴/3	Yangpai	1	U+0255 U+0065 U+2074 U+2074 U+002f U+0033
+nɤu⁵⁵/2	<???>	nɤu⁵⁵/2	Baixing	1	U+006e U+0264 U+0075 U+2075 U+2075 U+002f U+0032
+pja⁴⁴/1	<???>	pja⁴⁴/1	Baixing	1	U+0070 U+006a U+0061 U+2074 U+2074 U+002f U+0031
+ɕan²²/3	<???>	ɕan²²/3	Xiangao	1	U+0255 U+0061 U+006e U+00b2 U+00b2 U+002f U+0033
+ɣu²¹/5	<???>	ɣu²¹/5	Yangpai	1	U+0263 U+0075 U+00b2 U+00b9 U+002f U+0035
+tsei²²/3	<???>	tsei²²/3	Xiangao	1	U+0074 U+0073 U+0065 U+0069 U+00b2 U+00b2 U+002f U+0033
+ŋei⁵³/8	<???>	ŋei⁵³/8	Yangpai	1	U+014b U+0065 U+0069 U+2075 U+00b3 U+002f U+0038
+sei⁵⁵/2	<???>	sei⁵⁵/2	Yangpai	1	U+0073 U+0065 U+0069 U+2075 U+2075 U+002f U+0032
+nɑu³³/3	<???>	nɑu³³/3	Datu	1	U+006e U+0251 U+0075 U+00b3 U+00b3 U+002f U+0033
+^khw	khw	khwəŋ³³hɛ⁵⁵	Nameotuyenquang	1	U+005e U+006b U+0068 U+0077
+m̥ ei³³/3	<???>	m̥ ei³³/3	Datu	1	U+006d U+0325 U+0020 U+0065 U+0069 U+00b3 U+00b3 U+002f U+0033
+tɕo⁵³/8	<???>	tɕo⁵³/8	Baixing	1	U+0074 U+0255 U+006f U+2075 U+00b3 U+002f U+0038
+tɕu¹²/8	<???>	tɕu¹²/8	Xiangao	1	U+0074 U+0255 U+0075 U+00b9 U+00b2 U+002f U+0038
+ɕoŋ⁴²/6	<???>	ɕoŋ⁴²/6	Baixing	1	U+0255 U+006f U+014b U+2074 U+00b2 U+002f U+0036
+to²⁴/4	<???>	to²⁴/4	Baixing	1	U+0074 U+006f U+00b2 U+2074 U+002f U+0034
+tɑu¹²/8	<???>	tɑu¹²/8	Xiangao	1	U+0074 U+0251 U+0075 U+00b9 U+00b2 U+002f U+0038
+³²	³²	nu³²tɕei⁵⁵kam⁵⁵	Nameotuyenquang	1	U+00b3 U+00b2
+nɑ³⁵/3	<???>	nɑ³⁵/3	Zhenmin	1	U+006e U+0251 U+00b3 U+2075 U+002f U+0033
+ɣe³³/5	<???>	ɣe³³/5	Zhenmin	1	U+0263 U+0065 U+00b3 U+00b3 U+002f U+0035
+pue³³/5	<???>	pue³³/5	Baixing	1	U+0070 U+0075 U+0065 U+00b3 U+00b3 U+002f U+0035
+lɑŋ²⁴/1	<???>	lɑŋ²⁴/1	Datu	1	U+006c U+0251 U+014b U+00b2 U+2074 U+002f U+0031
+tsi²²/3	<???>	tsi²²/3	Xiangao	1	U+0074 U+0073 U+0069 U+00b2 U+00b2 U+002f U+0033
+ȵan²¹/4	<???>	ȵan²¹/4	Xiangao	1	U+0235 U+0061 U+006e U+00b2 U+00b9 U+002f U+0034
+lɑ²¹/5	<???>	lɑ²¹/5	Yangpai	1	U+006c U+0251 U+00b2 U+00b9 U+002f U+0035
+le³³/1	<???>	le³³/1	Xiangao	1	U+006c U+0065 U+00b3 U+00b3 U+002f U+0031
+ȵ̥oŋ³³/3	<???>	ȵ̥oŋ³³/3	Datu	1	U+0235 U+0325 U+006f U+014b U+00b3 U+00b3 U+002f U+0033
+wo³⁵/5	<???>	wo³⁵/5	Xiangao	1	U+0077 U+006f U+00b3 U+2075 U+002f U+0035
+ȵai⁵³/6	<???>	ȵai⁵³/6	Xiangao	1	U+0235 U+0061 U+0069 U+2075 U+00b3 U+002f U+0036
+no⁴²/2	<???>	no⁴²/2	Xiangao	1	U+006e U+006f U+2074 U+00b2 U+002f U+0032
+soŋ³⁵/3	<???>	soŋ³⁵/3	Zhenmin	1	U+0073 U+006f U+014b U+00b3 U+2075 U+002f U+0033
+th	th	tau⁵³thəu³³	Nameotuyenquang	1	U+0074 U+0068
+na³³/1	<???>	na³³/1	Zhenmin	1	U+006e U+0061 U+00b3 U+00b3 U+002f U+0031
+ɿ	ɿ	min²²tsɿ⁴⁴	EasternQiandong	1	U+027f
+neŋ³³/1	<???>	neŋ³³/1	Xiangao	1	U+006e U+0065 U+014b U+00b3 U+00b3 U+002f U+0031
+ɬɔ⁴⁴/1	<???>	ɬɔ⁴⁴/1	Baixing	1	U+026c U+0254 U+2074 U+2074 U+002f U+0031
+nɤu⁴²/6	<???>	nɤu⁴²/6	Baixing	1	U+006e U+0264 U+0075 U+2074 U+00b2 U+002f U+0036
+tai²²/2	<???>	tai²²/2	Datu	1	U+0074 U+0061 U+0069 U+00b2 U+00b2 U+002f U+0032
 kin³³həu⁵⁵,
 həu⁵⁵than⁵⁵	<???>	kin³³həu⁵⁵,
-həu⁵⁵than⁵⁵	Nameo	2	U+006b U+0069 U+006e U+00b3 U+00b3 U+0068 U+0259 U+0075 U+2075 U+2075 U+002c U+000a U+0068 U+0259 U+0075 U+2075 U+2075 U+0074 U+0068 U+0061 U+006e U+2075 U+2075
-qh	qh	kin³³qhɔŋ⁵³, mua³³qha³³	Nameo	2	U+0071 U+0068
-²²$	²²	aŋ³³qəu²², ma³³ʔaŋ²²	Nameo	2	U+00b2 U+00b2 U+0024
-ɪ	ɪ	ɬɪn⁵³, ku³³tɪn⁵³	Nameo	2	U+026a
-ɣei³³sʰai³⁵, qai³⁵	<???>	ɣei³³sʰai³⁵, qai³⁵	Nameo	2	U+0263 U+0065 U+0069 U+00b3 U+00b3 U+0073 U+02b0 U+0061 U+0069 U+00b3 U+2075 U+002c U+0020 U+0071 U+0061 U+0069 U+00b3 U+2075
-sʰ	sʰ	laŋ⁵³sʰaŋ⁵⁵, mua³³sʰaŋ⁵³	Nameo	2	U+0073 U+02b0
-^sh	sh	shɔ³³va⁵⁵, shaŋ⁵⁵	Nameo	2	U+005e U+0073 U+0068
-ɕ	ɕ	pai⁵³ɕin³³?, pai⁵³ɕin³³	Nameo	2	U+0255
-^x	x	xɔŋ¹¹, xi³⁵	Nameo	2	U+005e U+0078
-^ɔ	ɔ	ɔ⁵³, ɔ³³tai³³	Nameo	2	U+005e U+0254
-ɛ	ɛ	ta³³ɬɛ³⁵, khwəŋ³³hɛ⁵⁵	Nameo	2	U+025b
-s	s	la³³sa¹¹, ta³³sau⁵³	Nameo	2	U+0073
-z	z	la³³zu³⁵, la³³zɯəŋ⁵³	Nameo	2	U+007a
-³²$	³²	ta³², ljəu³²	Nameo	2	U+00b3 U+00b2 U+0024
-dʑ	dʑ	kin³³dʑu⁵⁵	Nameo	2	U+0064 U+0291
-[na⁵⁵]mjau³⁵ɬa⁵³	<???>	[na⁵⁵]mjau³⁵ɬa⁵³	Nameo	1	U+005b U+006e U+0061 U+2075 U+2075 U+005d U+006d U+006a U+0061 U+0075 U+00b3 U+2075 U+026c U+0061 U+2075 U+00b3
-õ	õ	tɕõ³³tɕai⁵⁵	Nameo	1	U+00f5
-b	b	la³³baŋ⁵³	Nameo	1	U+0062
-³²	³²	nu³²tɕei⁵⁵kam⁵⁵	Nameo	1	U+00b3 U+00b2
-[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	<???>	[ŋɛ¹¹]tɔ⁵³tɕhin³⁵	Nameo	1	U+005b U+014b U+025b U+00b9 U+00b9 U+005d U+0074 U+0254 U+2075 U+00b3 U+0074 U+0255 U+0068 U+0069 U+006e U+00b3 U+2075
-g	g	ta³³goŋ⁵⁵	Nameo	1	U+0067
-?$	<?>	pai⁵³ɕin³³?	Nameo	1	U+003f U+0024
-^tɕh	tɕh	tɕhin³⁵	Nameo	1	U+005e U+0074 U+0255 U+0068
-th	th	tau⁵³thəu³³	Nameo	1	U+0074 U+0068
-¹¹	¹¹	khai³³u¹¹pa³⁵	Nameo	1	U+00b9 U+00b9
-^d	d	djɔ³³	Nameo	1	U+005e U+0064
-c	c	tcoŋ⁵⁵	Nameo	1	U+0063
-̃	<?>	tɕõ³³tɕai⁵⁵	Nameo	1	U+0303
-tɕh	tɕh	u³³tɕhui⁵³	Nameo	1	U+0074 U+0255 U+0068
-ɣ	ɣ	tɕei⁵³ɣəu³³	Nameo	1	U+0263
-^khw	khw	khwəŋ³³hɛ⁵⁵	Nameo	1	U+005e U+006b U+0068 U+0077
+həu⁵⁵than⁵⁵	Nameotuyenquang	1	U+006b U+0069 U+006e U+00b3 U+00b3 U+0068 U+0259 U+0075 U+2075 U+2075 U+002c U+000a U+0068 U+0259 U+0075 U+2075 U+2075 U+0074 U+0068 U+0061 U+006e U+2075 U+2075
+^ȵ̥	ȵ̥	ȵ̥am⁵³	SouthernQiandong	1	U+005e U+0235 U+0325
+qe³³/1	<???>	qe³³/1	Xiangao	1	U+0071 U+0065 U+00b3 U+00b3 U+002f U+0031
+lɑ³³/1	<???>	lɑ³³/1	Zhenmin	1	U+006c U+0251 U+00b3 U+00b3 U+002f U+0031
+qɑ²⁴/1	<???>	qɑ²⁴/1	Datu	1	U+0071 U+0251 U+00b2 U+2074 U+002f U+0031
+tɕo⁴²/2	<???>	tɕo⁴²/2	Xiangao	1	U+0074 U+0255 U+006f U+2074 U+00b2 U+002f U+0032
+tsi³⁵/3	<???>	tsi³⁵/3	Zhenmin	1	U+0074 U+0073 U+0069 U+00b3 U+2075 U+002f U+0033
+nu²²/6	<???>	nu²²/6	Zhenmin	1	U+006e U+0075 U+00b2 U+00b2 U+002f U+0036
+fau⁴²/2	<???>	fau⁴²/2	Xiangao	1	U+0066 U+0061 U+0075 U+2074 U+00b2 U+002f U+0032
+tau³³/3	<???>	tau³³/3	Datu	1	U+0074 U+0061 U+0075 U+00b3 U+00b3 U+002f U+0033
+c	c	tcoŋ⁵⁵	Nameotuyenquang	1	U+0063
+xau³³/1	<???>	xau³³/1	Yangpai	1	U+0078 U+0061 U+0075 U+00b3 U+00b3 U+002f U+0031
+mi²²/4	<???>	mi²²/4	Yangpai	1	U+006d U+0069 U+00b2 U+00b2 U+002f U+0034
+hau²⁴/1	<???>	hau²⁴/1	Datu	1	U+0068 U+0061 U+0075 U+00b2 U+2074 U+002f U+0031
+no³¹, nau³¹	<???>	no³¹, nau³¹	Nameocaobang	1	U+006e U+006f U+00b3 U+00b9 U+002c U+0020 U+006e U+0061 U+0075 U+00b3 U+00b9
+tsɑ³³/1	<???>	tsɑ³³/1	Yangpai	1	U+0074 U+0073 U+0251 U+00b3 U+00b3 U+002f U+0031
+^m̥	m̥	m̥ i³⁵	NorthernQiandong	1	U+005e U+006d U+0325
+ɕɦoŋ²³/6	<???>	ɕɦoŋ²³/6	Yangpai	1	U+0255 U+0266 U+006f U+014b U+00b2 U+00b3 U+002f U+0036
+ȵe²⁴/4	<???>	ȵe²⁴/4	Baixing	1	U+0235 U+0065 U+00b2 U+2074 U+002f U+0034
+ɣuɤ³³/5	<???>	ɣuɤ³³/5	Baixing	1	U+0263 U+0075 U+0264 U+00b3 U+00b3 U+002f U+0035
+to²¹²/8	<???>	to²¹²/8	Zhenmin	1	U+0074 U+006f U+00b2 U+00b9 U+00b2 U+002f U+0038
+sen⁵⁵/2	<???>	sen⁵⁵/2	Baixing	1	U+0073 U+0065 U+006e U+2075 U+2075 U+002f U+0032
+kei³⁵/5	<???>	kei³⁵/5	Xiangao	1	U+006b U+0065 U+0069 U+00b3 U+2075 U+002f U+0035
+tuɛ¹³/3	<???>	tuɛ¹³/3	Baixing	1	U+0074 U+0075 U+025b U+00b9 U+00b3 U+002f U+0033
+pɛ⁴⁴/1	<???>	pɛ⁴⁴/1	Baixing	1	U+0070 U+025b U+2074 U+2074 U+002f U+0031
+ts	ts	min²²tsɿ⁴⁴	EasternQiandong	1	U+0074 U+0073
+ma¹²/4	<???>	ma¹²/4	Xiangao	1	U+006d U+0061 U+00b9 U+00b2 U+002f U+0034
+ɕuɤ⁵⁵/2	<???>	ɕuɤ⁵⁵/2	Baixing	1	U+0255 U+0075 U+0264 U+2075 U+2075 U+002f U+0032
+ɕoŋ⁵³/6	<???>	ɕoŋ⁵³/6	Xiangao	1	U+0255 U+006f U+014b U+2075 U+00b3 U+002f U+0036
