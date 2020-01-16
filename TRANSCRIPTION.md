@@ -66,13 +66,13 @@
 | æ | 5 | ✓ | ✓ |
 | ȶ | 5 | ✓ | ✓ |
 | ɦ | 5 | ✓ | ✓ |
-| ⁶ | 5 | ? | ? |
+| ⁶/¹³ | 5 | ✓ | ✓ |
 | d | 4 | ✓ | ✓ |
 | m̥ | 4 | ✓ | ✓ |
 | æ̃ | 4 | ✓ | ✓ |
 | ɒ | 4 | ✓ | ✓ |
 | ⁵ | 4 | ✓ | ✓ |
-| ⁸ | 4 | ? | ? |
+| ⁸/³¹ | 4 | ✓ | ✓ |
 | tʰ | 3 | ✓ | ✓ |
 | x | 3 | ✓ | ✓ |
 | ²³ | 3 | ✓ | ✓ |
@@ -116,17 +116,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------|:-----------|:-----------|:----------|:----------------------------|
-| Guncen-10_ten-1 | Guncen | 10_ten | tɕiu8 | tɕ i u <s> ⁸ </s> |
-| Guncen-135_heart-1 | Guncen | 135_heart | tiu8 | t i u <s> ⁸ </s> |
-| Guncen-187_narrow-1 | Guncen | 187_narrow | ŋe8 | ŋ e <s> ⁸ </s> |
-| Guncen-194_nose-1 | Guncen | 194_nose | qʰaŋ3ȵuə6 | qʰ a ŋ ³ + ȵ u ə <s> ⁶ </s> |
-| Guncen-23_bean-1 | Guncen | 23_bean | tou8 | t o u <s> ⁸ </s> |
-| Guncen-279_tooth-1 | Guncen | 279_tooth | tsəi3ma6 | ts ə i ³ + m a <s> ⁶ </s> |
-| Guncen-30_bird-1 | Guncen | 30_bird | nou6 | n o u <s> ⁶ </s> |
-| Guncen-7_seven-1 | Guncen | 7_seven | ɕioŋ6 | ɕ i o ŋ <s> ⁶ </s> |
-| Guncen-99_eye-1 | Guncen | 99_eye | tsəi3ma6 | ts ə i ³ + m a <s> ⁶ </s> |
+||
 
-(9 rows)
+(0 rows)
 
 

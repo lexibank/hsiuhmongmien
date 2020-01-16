@@ -9,8 +9,8 @@ Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 ![Glottolog: 24%](https://img.shields.io/badge/Glottolog-24%25-red.svg "Glottolog: 24%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
-![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 12
 - **Concepts:** 315
@@ -21,5 +21,5 @@ Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 4,263
-- **Segments:** 94 (2 BIPA errors, 2 CTLS sound class errors, 92 CLTS modified)
+- **Segments:** 94 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
 - **Inventory size (avg):** 39.50
