@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "8f22a44"
+            "dc:created": "d2b6b33"
         },
         {
             "rdf:type": "prov:Entity",
@@ -206,11 +206,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "DataSource"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Name_in_Source"
+                        "name": "Source"
                     },
                     {
                         "datatype": "string",
@@ -247,10 +243,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Gloss_in_Source"
                     }
                 ],
                 "primaryKey": [
