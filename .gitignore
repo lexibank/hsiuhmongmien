@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+cldf/.transcription-report.json
+cldf/.gitattributes
 
 # C extensions
 *.so
