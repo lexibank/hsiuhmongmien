@@ -13,13 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "d2b6b33"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-5-g5f99100"
+            "dc:created": "003d4e4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -32,6 +26,12 @@
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/clld/concepticon-data",
             "dc:created": "v2.2.1a-90-ge34e420"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-5-g5f99100"
         }
     ],
     "prov:wasGeneratedBy": [
