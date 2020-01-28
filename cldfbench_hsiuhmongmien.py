@@ -69,7 +69,9 @@ class Dataset(MyDataset):
             idx = concept['ID']+'_'+slug(concept['GLOSS'])
             args.writer.add_concept(
                 ID=idx,
-                Name=concept['GLOSS'])
+                Name=concept['GLOSS'],
+                Concepticon_ID=concept['CONCEPTICON_ID'],
+                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'])
             concepts[concept['GLOSS']]=idx
         # create forms
         for cogid_, entry in progressbar(
