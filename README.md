@@ -7,7 +7,7 @@ Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 
 [![Build Status](https://travis-ci.org/lexibank/hsiuhmongmien.svg?branch=master)](https://travis-ci.org/lexibank/hsiuhmongmien)
 ![Glottolog: 24%](https://img.shields.io/badge/Glottolog-24%25-red.svg "Glottolog: 24%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
