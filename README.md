@@ -20,6 +20,6 @@ Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 - **Cognacy:** 910 cognates in 315 cognate sets (257 singletons)
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 4,257
-- **Segments:** 95 (0 BIPA errors, 0 CTLS sound class errors, 95 CLTS modified)
-- **Inventory size (avg):** 39.67
+- **Tokens:** 4,100
+- **Segments:** 104 (0 BIPA errors, 0 CTLS sound class errors, 104 CLTS modified)
+- **Inventory size (avg):** 41.25
