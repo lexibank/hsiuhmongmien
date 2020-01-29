@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "003d4e4"
+            "dc:created": "5e10727"
         },
         {
             "rdf:type": "prov:Entity",
@@ -24,8 +24,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/clld/concepticon-data",
-            "dc:created": "v2.2.1a-90-ge34e420"
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.1a"
         },
         {
             "rdf:type": "prov:Entity",

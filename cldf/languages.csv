@@ -1,6 +1,6 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source,Location
-Nameotuyenquang,Na Meo (Tuyen Quang),,,,,21.8486731,105.4383658,Hmong-Mien,Hsiu2015,"Tuyen Quang province, Vietnam"
-Nameocaobang,Na Meo (Cao Bang),name1237,Ná-Meo,neo,Eurasia,22.4820439,106.4824318,Hmong-Mien,Edmondson2001,"Cao Bang province, Vietnam"
+NaMeoTuyenQuang,Na Meo (Tuyen Quang),,,,,21.8486731,105.4383658,Hmong-Mien,Hsiu2015,"Tuyen Quang province, Vietnam"
+NaMeoCaoBang,Na Meo (Cao Bang),name1237,Ná-Meo,neo,Eurasia,22.4820439,106.4824318,Hmong-Mien,Edmondson2001,"Cao Bang province, Vietnam"
 Zhenmin,Zhenmin,,,,,25.5894065,109.185151,Hmong-Mien,Chen2013,"Zhenmin 振民, Gongdong Township 拱洞乡, Rongshui County, 融水县, Guangxi, China"
 Guncen,Guncen,,,,,25.5137346,108.929175,Hmong-Mien,Committee2008,"Guncen 滚岑村, Dongtou 洞头乡 Rongshui County 融水县, Guangxi, China"
 SouthernQiandong,Yaogao,sout2754,Southern Qiandong Miao,hms,Eurasia,26.688723,108.401234,Hmong-Mien,Chen2013,"Yaogao 尧告, Rongshui County 融水县, Guangxi, China"
