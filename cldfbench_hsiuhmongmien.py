@@ -52,7 +52,7 @@ class Dataset(BaseDataset):
                 for row in args.writer.add_forms_from_value(
                     Language_ID = value['ID'],
                     Parameter_ID=concepts_dict[entry['Gloss']],
-                    Value=entry[language],
+                    Value=entry[language].replace(" ", ""),
                     Source=[value['Source']]
                     ):
                     args.writer.add_cognate(
