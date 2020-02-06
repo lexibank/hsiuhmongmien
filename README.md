@@ -2,6 +2,9 @@
 
 Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 
+
+Conceptlists in Concepticon:
+- [Hsiu-2015-315](https://concepticon.clld.org/contributions/Hsiu-2015-315)
 ## Statistics
 
 
