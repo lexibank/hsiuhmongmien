@@ -16,7 +16,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 15_ant,ant,587,ANT
 16_ash,ash,646,ASH
 17_autonym,autonym,3433,AUTONYM (OF PEOPLE)
-18_back,back,2323,BACK (PART)
+18_back,back,1291,BACK
 19_bamboo,bamboo,1927,BAMBOO
 20_banana,banana,868,BANANA
 21_basket,basket,1539,BASKET
@@ -48,7 +48,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 47_butterfly,butterfly,1791,BUTTERFLY
 48_buy,buy,1869,BUY
 49_cat,cat,1208,CAT
-50_cattlecow,cattle; cow,1007,COW
+50_cattlecow,cattle; cow,1153,CATTLE
 51_cave,cave,1155,CAVE
 52_centipede,centipede,1974,CENTIPEDE
 53_chair,chair,1476,CHAIR
@@ -61,7 +61,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 60_chopstick,chopstick,1987,CHOPSTICKS
 61_citrusfruit,citrus fruit,1126,CITRUS FRUIT
 62_clean,clean,704,CLEAN
-63_closeto,"close, to",1942,NEAR
+63_closeto,"close, to",1046,SHUT
 64_cloud,cloud,1489,CLOUD
 65_coin,coin,1867,COIN
 66_coldadj,cold (adj.),1287,COLD
@@ -102,7 +102,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 101_fall,fall,1280,FALL
 102_family,family,194,FAMILY
 103_far,far,1406,FAR
-104_fat,fat,1282,FAT (FROM ANIMALS)
+104_fat,fat,,
 105_fear,fear,1419,FEAR (BE AFRAID)
 106_field,field,212,FIELD
 107_fire,fire,221,FIRE
@@ -166,7 +166,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 165_liver,liver,1224,LIVER
 166_long,long,1203,LONG
 167_lookto,"look, to",1819,LOOK
-168_lousebody,"louse, body",1392,LOUSE
+168_lousebody,"louse, body",,BODY LOUSE
 169_lousehead,"louse, head",310,HEAD LOUSE
 170_male,male,1553,MALE
 171_market,market,633,MARKET
@@ -178,7 +178,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 177_month,month,1370,MONTH
 178_moon,moon,1313,MOON
 179_morning,morning,1339,MORNING
-180_mortar,mortar,,
+180_mortar,mortar,224,MORTAR CRUSHER
 181_mosquito,mosquito,1509,MOSQUITO
 182_mountain,mountain,639,MOUNTAIN
 183_mouth,mouth,674,MOUTH
@@ -194,8 +194,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 193_night,night,1233,NIGHT
 194_nose,nose,1221,NOSE
 195_oil,oil,1484,OIL (ORGANIC SUBSTANCE)
-196_oldcu,old (cu),,
-197_oldgia,old (gia),1229,OLD
+196_oldcu,old (cu),2113,OLD (USED)
+197_oldgia,old (gia),2112,OLD (AGED)
 198_opento,"open, to",1156,OPEN
 199_oven,oven,1143,OVEN
 200_pig,pig,1337,PIG
@@ -209,11 +209,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208_rainbow,rainbow,1733,RAINBOW
 209_rat,rat,1490,RAT
 210_red,red,156,RED
-211_ricecooked,"rice, cooked",2750,GLUTINOUS RICE
-212_ricegrain,"rice, grain",605,GRAIN
+211_ricecooked,"rice, cooked",1191,COOKED RICE
+212_ricegrain,"rice, grain",,
 213_riceplant,"rice, plant",2026,RICE PLANT
 214_rich,rich,712,RICH
-215_right,right,1019,RIGHT
+215_right,right,1725,CORRECT (RIGHT)
 216_rightside,right side,1019,RIGHT
 217_ripe,ripe,178,RIPE
 218_road,road,667,ROAD
@@ -233,7 +233,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 232_sharp,sharp,1396,SHARP
 233_sheep,sheep,1331,SHEEP
 234_shirt,shirt,1622,SHIRT
-235_show,show,1868,VISIBLE
+235_show,show,1039,SHOW
 236_shoot,shoot,1172,SHOOT
 237_short,short,1645,SHORT
 238_shoulder,shoulder,1482,SHOULDER
@@ -246,9 +246,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 245_sky,sky,1732,SKY
 246_sleep,sleep,1585,SLEEP
 247_small,small,1246,SMALL
-248_smoke,smoke,2859,SMOKE (EMIT SMOKE)
+248_smoke,smoke,778,SMOKE (EXHAUST)
 249_snake,snake,730,SNAKE
-250_sniffsmell,"sniff, smell",375,SNIFF
+250_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE)
 251_snow,snow,784,SNOW
 252_son,son,1620,SON
 253_sour,sour,1906,SOUR
@@ -262,7 +262,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 261_stupid,stupid,1518,STUPID
 262_suck,suck,1421,SUCK
 263_sugarcane,sugarcane,146,SUGAR CANE
-264_summerwetseason,summer (wet season),1342,SUMMER
+264_summerwetseason,summer (wet season),3323,MONSOON SEASON
 265_sun,sun,1343,SUN
 266_sweet,sweet,717,SWEET
 267_table,table,1775,TABLE
@@ -285,7 +285,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 284_vegetable,vegetable,924,VEGETABLES
 285_villagenamekhuanhe,village name (Khuan He),,
 286_wall,wall,933,WALL (OF HOUSE)
-287_warm,warm,2272,HOT OR WARM
+287_warm,warm,1232,WARM
 288_water,water,948,WATER
 289_weexcl,we (excl.),1130,WE (EXCLUSIVE)
 290_weincl,we (incl.),1131,WE (INCLUSIVE)
@@ -303,7 +303,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 302_wind,wind,960,WIND
 303_window,window,1375,WINDOW
 304_wing,wing,1257,WING
-305_winterdryseason,winter (dry season),1471,WINTER
+305_winterdryseason,winter (dry season),452,DRY SEASON
 306_woman,woman,962,WOMAN
 307_wood,wood,1803,WOOD
 308_work,work,984,WORK (LABOUR)
