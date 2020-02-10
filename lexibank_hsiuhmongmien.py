@@ -39,11 +39,9 @@ class Dataset(BaseDataset):
         # make concept dictionary
         concepts_dict = {}
         concepts=args.writer.add_concepts(
-            id_factory=lambda c: "%s_%s" % (c.id, slug(c.gloss)))
-        for concept in self.concepts:
-            idx = concept['ID']+'_'+slug(concept['GLOSS'])
-            concepts_dict[concept['GLOSS']]=idx
-        # create forms
+            id_factory=lambda c: "%s_%s" % (c.number, slug(c.english)),
+            lookup_factory="Name")
+        # make forms
         for cogid_, entry in progressbar(
             enumerate(data), desc="cldfify the data", total=len(data)
             ):
@@ -51,8 +49,8 @@ class Dataset(BaseDataset):
             for language, value in languages_dict.items():
                 for row in args.writer.add_forms_from_value(
                     Language_ID = value['ID'],
-                    Parameter_ID=concepts_dict[entry['Gloss']],
-                    Value=entry[language],
+                    Parameter_ID = concepts[entry['Gloss']],
+                    Value=entry[language].replace(" ", ""),
                     Source=[value['Source']]
                     ):
                     args.writer.add_cognate(

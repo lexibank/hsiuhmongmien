@@ -7,16 +7,20 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        'cldfbench.dataset': [
-            'hsiuhmongmien=cldfbench_hsiuhmongmien:Dataset',
+        'lexibank.dataset': [
+            'hsiuhmongmien=lexibank_hsiuhmongmien:Dataset',
+        ],
+        'cldfbench.commands': [
+            'hsiuhmongmien=hsiuhmongmiencommands',
         ]
     },
     install_requires=[
         'cldfbench',
+        'pylexibank',
     ],
     extras_require={
         'test': [
             'pytest-cldf',
-        ],
-    },
+        ]
+    }
 )

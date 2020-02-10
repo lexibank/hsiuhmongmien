@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 cldf/.transcription-report.json
+sinopy-check.py
+
 
 # C extensions
 *.so

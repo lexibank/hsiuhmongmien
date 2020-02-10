@@ -2,6 +2,9 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Hsiu-2015-315"
+    ],
     "dc:identifier": "https://sites.google.com/site/msealangs/hmong-mien/na-meo",
     "dc:isVersionOf": null,
     "dc:related": null,
@@ -13,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "5e10727"
+            "dc:created": "61e5ee1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -24,8 +27,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a"
+            "rdf:about": "https://github.com/MacyL/concepticon-data",
+            "dc:created": "v2.2.1a-127-gdaba253"
         },
         {
             "rdf:type": "prov:Entity",
