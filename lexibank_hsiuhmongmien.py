@@ -37,7 +37,6 @@ class Dataset(BaseDataset):
         for lang in self.languages:
             languages_dict[lang['Name']]={'Source': lang['Source'], 'ID': lang['ID']}
         # make concept dictionary
-        concepts_dict = {}
         concepts=args.writer.add_concepts(
             id_factory=lambda c: "%s_%s" % (c.number, slug(c.english)),
             lookup_factory="Name")
