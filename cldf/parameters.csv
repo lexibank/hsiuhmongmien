@@ -158,7 +158,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 157_left,left,244,LEFT
 158_leg,leg,1297,LEG
 159_liedown,lie down,215,LIE DOWN
-160_light,light,737,LIGHT (IGNITE)
+160_light,light,630,LIGHT (RADIATION)
 161_lightning,lightning,1654,LIGHTNING
 162_lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
 163_lip,lip,478,LIP
@@ -210,7 +210,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 209_rat,rat,1490,RAT
 210_red,red,156,RED
 211_ricecooked,"rice, cooked",1191,COOKED RICE
-212_ricegrain,"rice, grain",,
+212_ricegrain,"rice, grain",926,RICE
 213_riceplant,"rice, plant",2026,RICE PLANT
 214_rich,rich,712,RICH
 215_right,right,1725,CORRECT (RIGHT)

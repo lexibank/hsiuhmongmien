@@ -1,22 +1,24 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Andrew C. Hsiu. 2015. The classification of Na Meo, a Hmong-Mien language of Vietnam. Paper Presented at SEALS 25, Chiang Mai, Thailand (May 27-29, 2015). 16pp.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Hsiu-2015-315"
     ],
-    "dc:identifier": "https://sites.google.com/site/msealangs/hmong-mien/na-meo",
+    "dc:identifier": "https://zenodo.org/record/1127804/",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "hsiuhmongmien",
+    "dc:title": "Classification of Na Meo",
     "dcat:accessURL": "https://github.com/lexibank/hsiuhmongmien",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "61e5ee1"
+            "dc:created": "2173b63"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,8 +29,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/MacyL/concepticon-data",
-            "dc:created": "v2.2.1a-127-gdaba253"
+            "rdf:about": "https://github.com/clld/concepticon-data",
+            "dc:created": "v2.2.1a-170-ge5f8de2"
         },
         {
             "rdf:type": "prov:Entity",
