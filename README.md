@@ -1,6 +1,12 @@
-# hsiuhmongmien
+# Classification of Na Meo
 
-Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
+Cite the source dataset as
+
+> Andrew C. Hsiu. 2015. The classification of Na Meo, a Hmong-Mien language of Vietnam. Paper Presented at SEALS 25, Chiang Mai, Thailand (May 27-29, 2015). 16pp.
+
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
+Available online at https://zenodo.org/record/1127804/
 
 
 Conceptlists in Concepticon:
