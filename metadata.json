@@ -1,8 +1,8 @@
 {
     "description": null,
-    "title": "hsiuhmongmien",
+    "title": "CLDF dataset derived from Hsiu's \"Classification of Na-Meo\" from 2015",
     "url": "https://sites.google.com/site/msealangs/hmong-mien/na-meo",
     "id": "hsiuhmongmien",
     "license": null,
-    "citation": null
+    "citation": "Hsiu, Andrew (2015): The classification of Na Meo, a Hmong-Mien language of Vietnam. Handout prepared for SEALS 25 (Chiang Mai, 2015/05/27-29)."
 }

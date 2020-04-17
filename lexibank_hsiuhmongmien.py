@@ -51,6 +51,7 @@ class Dataset(BaseDataset):
             for language, value in languages_dict.items():
                 for row in args.writer.add_forms_from_value(
                     Language_ID = value['ID'],
+                    Local_ID = '{0}-{1}'.format(cogid, value['ID']),
                     Parameter_ID=concepts_dict[entry['Gloss']],
                     Value=entry[language],
                     Source=[value['Source']]
