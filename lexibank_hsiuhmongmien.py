@@ -61,3 +61,4 @@ class Dataset(BaseDataset):
                     Source=sources[language],
                 ):
                     args.writer.add_cognate(lexeme=row, Cognateset_ID=cogid)
+

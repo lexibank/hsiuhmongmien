@@ -1,158 +1,185 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-a	a	na⁵⁵mjau³⁵ɬa⁵³, ta³³ʔau³⁵	Nameotuyenquang, SouthernQiandong, Guncen, EasternQiandong, NorthernQiandong, WesternQiandong	100	U+0061
-i	i	kin³³lai³⁵, tai³³ȵi⁵⁵	Nameotuyenquang, Guncen, Nameocaobang, WesternQiandong, EasternQiandong, SouthernQiandong, NorthernQiandong	100	U+0069
-u	u	ɣu⁴⁴, khɬu³³həu⁵⁵	Nameotuyenquang, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong, NorthernQiandong, Nameocaobang	100	U+0075
-³³$	³³	tsei³³, lei³³	Nameotuyenquang, Nameocaobang, NorthernQiandong, WesternQiandong, EasternQiandong	100	U+00b3 U+00b3 U+0024
-ŋ	ŋ	laŋ⁵³sʰaŋ⁵⁵, ȶɔŋ⁴⁴ŋoi³³	Nameotuyenquang, NorthernQiandong, Guncen, WesternQiandong, EasternQiandong, Nameocaobang	100	U+014b
-³³	³³ +	kin³³dʑu⁵⁵, taɯ³³ʔu³⁵	Nameotuyenquang, NorthernQiandong, Nameocaobang, EasternQiandong, WesternQiandong	100	U+00b3 U+00b3
-e	e	neu²², tɕei⁵³	EasternQiandong, WesternQiandong, Nameotuyenquang, SouthernQiandong, Nameocaobang, NorthernQiandong, Guncen, Yangpai	100	U+0065
-³⁵$	³⁵	maŋ³⁵, pai³⁵	Nameotuyenquang, Nameocaobang, NorthernQiandong, SouthernQiandong, EasternQiandong	100	U+00b3 U+2075 U+0024
-⁵³$	⁵³	tɔ⁵³, tɕei⁵³	Nameotuyenquang, SouthernQiandong, EasternQiandong, WesternQiandong, Nameocaobang	94	U+2075 U+00b3 U+0024
-^t	t	tɔ⁵³, ta³³	Nameotuyenquang, SouthernQiandong, Guncen, Nameocaobang, NorthernQiandong, EasternQiandong, WesternQiandong	91	U+005e U+0074
-⁵⁵$	⁵⁵	kin³³dʑu⁵⁵, nəu⁵⁵	Nameotuyenquang, NorthernQiandong, WesternQiandong, Nameocaobang, EasternQiandong, SouthernQiandong	75	U+2075 U+2075 U+0024
-n	n	kin³³dʑu⁵⁵, kin³³nɑu³⁵⁴	Nameotuyenquang, EasternQiandong, Nameocaobang, SouthernQiandong, WesternQiandong, NorthernQiandong, Guncen	69	U+006e
-ə	ə	nəu⁵⁵, tsəi3ma6	Nameotuyenquang, NorthernQiandong, Guncen, WesternQiandong	61	U+0259
-ɔ	ɔ	tɔ⁵³, nɔ⁵³	Nameotuyenquang, Nameocaobang, WesternQiandong, SouthernQiandong	57	U+0254
-^p	p	pa⁵⁵, pɛ²⁴	Nameotuyenquang, WesternQiandong, SouthernQiandong, NorthernQiandong, Guncen, EasternQiandong, Nameocaobang	56	U+005e U+0070
-o	o	so²⁴, po³⁵sʰoŋ³⁵	Nameotuyenquang, NorthernQiandong, SouthernQiandong, WesternQiandong, Guncen, EasternQiandong, Nameocaobang	55	U+006f
-^l	l	lei³³, lɔ⁵³	Nameotuyenquang, Nameocaobang, EasternQiandong, WesternQiandong, NorthernQiandong, Guncen, SouthernQiandong	54	U+005e U+006c
-j	j	tjuŋ²⁴njy⁵³, na⁵⁵mjau³⁵ɬa⁵³	Nameotuyenquang, WesternQiandong, EasternQiandong, NorthernQiandong, SouthernQiandong, Nameocaobang	46	U+006a
-⁴⁴$	⁴⁴	ɣu⁴⁴, kei⁴⁴	WesternQiandong, SouthernQiandong, EasternQiandong, NorthernQiandong, Nameocaobang	43	U+2074 U+2074 U+0024
-^q	q	qaŋ³⁵, quŋ⁵⁵	Nameotuyenquang, EasternQiandong, NorthernQiandong, WesternQiandong, SouthernQiandong, Guncen, Yangpai, Nameocaobang	42	U+005e U+0071
-^n	n	neu²², nəu⁵⁵	Nameotuyenquang, EasternQiandong, WesternQiandong, SouthernQiandong, NorthernQiandong, Nameocaobang, Guncen	41	U+005e U+006e
-^tɕ	tɕ	tɕei⁵³, tɕi⁵³	Nameotuyenquang, SouthernQiandong, NorthernQiandong, WesternQiandong, Guncen, Nameocaobang, EasternQiandong	41	U+005e U+0074 U+0255
-¹³$	¹³	pai¹³, pei¹³	SouthernQiandong, WesternQiandong, NorthernQiandong, EasternQiandong	36	U+00b9 U+00b3 U+0024
-^k	k	kin³³dʑu⁵⁵, kei⁴⁴	Nameotuyenquang, WesternQiandong, Nameocaobang, NorthernQiandong, EasternQiandong, SouthernQiandong, Guncen	32	U+005e U+006b
-m	m	tam⁵³, sam⁵³	Nameotuyenquang, SouthernQiandong, WesternQiandong, Guncen, EasternQiandong, NorthernQiandong, Nameocaobang	31	U+006d
-^ɬ	ɬ	ɬoŋ⁵⁵, ɬa⁵³	Nameotuyenquang, NorthernQiandong, WesternQiandong, Nameocaobang, Guncen, SouthernQiandong, EasternQiandong	30	U+005e U+026c
-t	t	pua¹³teu⁵³, kuə³³tu⁵³	Nameotuyenquang, WesternQiandong, Nameocaobang, EasternQiandong, NorthernQiandong	29	U+0074
-ɑ	ɑ	tɑ³³qɑ³³, lɑ³³nɑ³³	Nameocaobang, EasternQiandong	28	U+0251
-⁵³	⁵³ +	gəu⁵³tɕu³³, qan⁵³qa⁴⁴	Nameotuyenquang, Nameocaobang, SouthernQiandong	26	U+2075 U+00b3
-ɛ	ɛ	tɛ³³qɛ³³, pɛ²⁴	NorthernQiandong, EasternQiandong, Guncen, Nameotuyenquang, Nameocaobang, SouthernQiandong	26	U+025b
-^m	m	maŋ³⁵, mi³³	Nameotuyenquang, Nameocaobang, WesternQiandong, EasternQiandong	25	U+005e U+006d
-⁵⁵	⁵⁵ +	pi⁵⁵sei⁵⁵, na⁵⁵mjau³⁵ɬa⁵³	Nameotuyenquang, NorthernQiandong, WesternQiandong	24	U+2075 U+2075
-²⁴$	²⁴	so²⁴, pɛ²⁴	EasternQiandong, Nameocaobang, SouthernQiandong	24	U+00b2 U+2074 U+0024
-^ȵ	ȵ	ȵaŋ³³qaŋ³⁵, ȵai⁵³	Nameotuyenquang, Guncen, SouthernQiandong, Nameocaobang	20	U+005e U+0235
-q	q	ȵaŋ³³qaŋ³⁵, aŋ³³qəu²²	Nameotuyenquang, Nameocaobang, SouthernQiandong, NorthernQiandong, WesternQiandong, Guncen, EasternQiandong	19	U+0071
-²²$	²²	neu²², aŋ³³qəu²²	EasternQiandong, WesternQiandong, SouthernQiandong, Nameotuyenquang, Nameocaobang	18	U+00b2 U+00b2 U+0024
-tɕ	tɕ	kin³³tɕa³³, khɔ³³tɕi³⁵	Nameotuyenquang	17	U+0074 U+0255
-l	l	kin³³lai³⁵, thau³³ləi³⁵	Nameotuyenquang, Nameocaobang, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong	16	U+006c
-^ɣ	ɣ	ɣu⁴⁴, ɣi³³	Nameotuyenquang, WesternQiandong, NorthernQiandong, SouthernQiandong, Guncen	16	U+005e U+0263
-¹¹$	¹¹	moŋ¹¹, ta³³kɔ¹¹	Nameotuyenquang, NorthernQiandong, Nameocaobang	15	U+00b9 U+00b9 U+0024
-p	p	tə⁰²paŋ⁵⁵, ɬin³³pu³⁵	Nameotuyenquang, NorthernQiandong, Nameocaobang, WesternQiandong, EasternQiandong	15	U+0070
-ɬ	ɬ	na⁵⁵mjau³⁵ɬa⁵³, la³³ɬi⁵⁵	Nameotuyenquang, SouthernQiandong	15	U+026c
-³¹$	³¹	ŋi³¹, tɔʔ³¹	SouthernQiandong, Nameocaobang, Nameotuyenquang, NorthernQiandong	15	U+00b3 U+00b9 U+0024
-^s	s	sam⁵³, so²⁴	Nameotuyenquang, EasternQiandong, SouthernQiandong, Guncen	13	U+005e U+0073
-^ɕ	ɕ	ɕan³³, ɕiŋ3	EasternQiandong, Nameocaobang, Guncen, NorthernQiandong, WesternQiandong, SouthernQiandong	13	U+005e U+0255
-^ts	ts	tsei³³, tsəi3ma6	Nameocaobang, EasternQiandong, NorthernQiandong, Guncen, SouthernQiandong	12	U+005e U+0074 U+0073
-ȵ	ȵ	tɕaŋ³³ȵai⁵⁵, qhaŋ³³ȵai⁵⁵	Nameotuyenquang, Guncen, SouthernQiandong	11	U+0235
-^ŋ	ŋ	ŋui⁵⁵, ŋa²⁴	Nameotuyenquang, Nameocaobang, NorthernQiandong, WesternQiandong, Guncen, EasternQiandong, SouthernQiandong	11	U+005e U+014b
-ɯ	ɯ	taɯ³³ʔu³⁵, taɯ³³	Nameotuyenquang, WesternQiandong	10	U+026f
-1$	¹	tɛ1, ɣi1	Guncen	10	U+0031 U+0024
-^v	v	vu³⁵, vu5	Nameotuyenquang, Nameocaobang, Guncen	10	U+005e U+0076
-³⁵	³⁵ +	na⁵⁵mjau³⁵ɬa⁵³, kue³⁵tai⁵³	Nameotuyenquang, Nameocaobang, NorthernQiandong	9	U+00b3 U+2075
-ʔ	ʔ	taɯ³³ʔu³⁵, paʔ⁵³	Nameotuyenquang, Nameocaobang	9	U+0294
-^sʰ	sʰ	sʰou³³, sʰiŋ³³	Nameotuyenquang, WesternQiandong	8	U+005e U+0073 U+02b0
-^h	h	ho³³, hou²⁴	Nameotuyenquang, Guncen, WesternQiandong, EasternQiandong, NorthernQiandong	8	U+005e U+0068
-^qh	qʰ	qhaŋ³³ȵai⁵⁵, qhɔ³³tɕi³⁵	Nameotuyenquang	7	U+005e U+0071 U+0068
-3$	³	ɕiŋ3, qe3	Guncen, Yangpai	7	U+0033 U+0024
-^ʑ	ʑ	ʑeu⁴⁴, ʑu⁵⁵	EasternQiandong, WesternQiandong, NorthernQiandong, SouthernQiandong	7	U+005e U+0291
-^g	g	gəi³⁵, gəu³³	Nameotuyenquang, Nameocaobang	7	U+005e U+0067
-^kh	kʰ	khai³³khɔ³⁵, khɔ³³tɕi³⁵	Nameotuyenquang	6	U+005e U+006b U+0068
-¹³	¹³	pua¹³teu⁵³, pei¹³me⁵⁵	WesternQiandong, SouthernQiandong	6	U+00b9 U+00b3
-k	k	kin³³ku⁵⁵lu³³, ta³³kɔ¹¹	Nameotuyenquang	6	U+006b
-⁴⁴	⁴⁴ +	ȶɔŋ⁴⁴ŋoi³³, la⁴⁴la⁴⁴	WesternQiandong, EasternQiandong, Nameocaobang, SouthernQiandong	6	U+2074 U+2074
-³¹	³¹ +	tɕu³¹ʔ, tjam³¹ȵo²²	Nameocaobang, SouthernQiandong	5	U+00b3 U+00b9
-6$	⁶/¹³	tsəi3ma6, qʰaŋ3ȵuə6	Guncen	5	U+0036 U+0024
-kh	kʰ	saŋ⁵⁵khɬɔ³³, ɬa³³khai⁵⁵	Nameotuyenquang	5	U+006b U+0068
-v	v	pa³³va⁵³ni³⁵, vu⁵⁵va³³	Nameotuyenquang	5	U+0076
-^n̥	n̥	n̥ju¹³mo²², n̥ju³³mɛ¹³	NorthernQiandong, SouthernQiandong	5	U+005e U+006e U+0325
-^ɕʰ	ɕʰ	ɕʰe¹³, ɕʰaŋ³⁵	NorthernQiandong, WesternQiandong	5	U+005e U+0255 U+02b0
-s	s	pi⁵⁵sei⁵⁵, la³³sa¹¹	Nameotuyenquang, WesternQiandong, NorthernQiandong	5	U+0073
-^z	z	zi³³, zu³³	Nameotuyenquang, NorthernQiandong	5	U+005e U+007a
-æ	æ	læ³³, læ⁴⁴	WesternQiandong	4	U+00e6
-^u	u	u³³tɑi²⁴, u³⁵	Nameotuyenquang, Nameocaobang	4	U+005e U+0075
-^a	a	aŋ³³, a⁵⁵ȵin³³	Nameotuyenquang	4	U+005e U+0061
-5$	⁵	ɣi5, vu5	Guncen	4	U+0035 U+0024
-^ʔ	ʔ	ʔdjɔ³⁵, ʔɔŋ³³	Nameotuyenquang	4	U+005e U+0294
-3	³ +	tsəi3ma6, qʰaŋ3ȵai2	Guncen	4	U+0033
-^f	f	fan³³, fan²²	EasternQiandong, NorthernQiandong	4	U+005e U+0066
-¹¹	¹¹ +	pɔ¹¹mja²², pɔ¹¹la³³	WesternQiandong, Nameotuyenquang	4	U+00b9 U+00b9
-8$	⁸/³¹	ŋe8, tou8	Guncen	4	U+0038 U+0024
-h	h	pəu³⁵hau³³, khɬu³³həu⁵⁵	Nameotuyenquang	4	U+0068
-z	z	po⁵⁵zɛ¹³, la³³zu³⁵	Nameotuyenquang, NorthernQiandong	4	U+007a
-æ̃	æ̃	kuæ̃¹³, kæ̃⁴⁴	WesternQiandong	4	U+00e6 U+0303
-1	¹ +	la1na1, ta1lɛ3	Guncen	4	U+0031
-²⁴¹$	²⁴¹	ta²⁴¹, ȵan²⁴¹	SouthernQiandong	3	U+00b2 U+2074 U+00b9 U+0024
-sʰ	sʰ	po³⁵sʰoŋ³⁵, laŋ⁵³sʰaŋ⁵⁵	Nameotuyenquang, NorthernQiandong	3	U+0073 U+02b0
-d	d	ʔdjoŋ³³ʔdai³⁵, ʔdjɔ³⁵	Nameotuyenquang	3	U+0064
-²¹$	²¹	to²¹, mei²¹	WesternQiandong	3	U+00b2 U+00b9 U+0024
-ʔ$	ʔ	tɕu³¹ʔ, ju³¹ʔ	Nameocaobang	3	U+0294 U+0024
-4$	⁴	ȵiŋ4, ȵai4	Guncen	3	U+0034 U+0024
-^qʰ	qʰ	qʰaŋ3ȵai2, qʰaŋ³³nei²⁴	Guncen, EasternQiandong	3	U+005e U+0071 U+02b0
-_	_	ɕʰi³³m̥ aŋ⁴⁴, m̥ i³⁵	NorthernQiandong, Nameocaobang	3	U+005f
-^ɬʰ	ɬʰ	ɬʰa⁴⁴, ɬʰə⁴⁴	NorthernQiandong	3	U+005e U+026c U+02b0
-²¹²$	²¹²	njei²¹², njan²¹²	EasternQiandong	3	U+00b2 U+00b9 U+00b2 U+0024
-ɕ	ɕ	pai⁵³ɕin³³?, ɬin³⁵ɕiɑ⁴⁴	Nameotuyenquang, Nameocaobang	3	U+0255
-^th	tʰ	thau³³ləi³⁵, than⁵⁵	Nameotuyenquang	3	U+005e U+0074 U+0068
-²⁴	²⁴	ɕin²⁴teu²², qei²⁴qei²⁴	EasternQiandong	3	U+00b2 U+2074
-^kw	kʷ	kwen⁵³, kwe⁴⁴	SouthernQiandong	3	U+005e U+006b U+0077
-õ	õ	tõi³⁵⁴, tɕõ³³tɕai⁵⁵	Nameotuyenquang, Nameocaobang	2	U+00f5
-²²	²² +	min²²tsɿ⁴⁴, lɑ²²lei²⁴	Nameocaobang, EasternQiandong	2	U+00b2 U+00b2
-³⁵⁴$	³⁵⁴	tõi³⁵⁴, kin³³nɑu³⁵⁴	Nameocaobang	2	U+00b3 U+2075 U+2074 U+0024
-ɪ	ɪ	ku³³tɪn⁵³, ɬɪn⁵³	Nameotuyenquang	2	U+026a
-^x	x	xɔŋ¹¹, xi³⁵	Nameotuyenquang	2	U+005e U+0078
-ph	pʰ	kin³³phi⁵⁵, ta⁵³phai³⁵	Nameotuyenquang	2	U+0070 U+0068
-^sh	sʰ	shaŋ⁵⁵, shɔ³³va⁵⁵	Nameotuyenquang	2	U+005e U+0073 U+0068
-dʑ	dʑ	kin³³dʑu⁵⁵	Nameotuyenquang	2	U+0064 U+0291
-ɣ	ɣ	tɕei⁵³ɣəu³³, pɔ¹³ɣi⁴⁴	Nameotuyenquang, WesternQiandong	2	U+0263
-²¹	²¹	tɑ²¹le²⁴, tɑ²¹qɛ³³	Nameocaobang	2	U+00b2 U+00b9
-2$	²	qʰaŋ3ȵai2, ɬoŋ2	Guncen	2	U+0032 U+0024
-^ph	pʰ	phuŋ³⁵, phai⁵³	Nameotuyenquang	2	U+005e U+0070 U+0068
-qh	qʰ	kin³³qhɔŋ⁵³, mua³³qha³³	Nameotuyenquang	2	U+0071 U+0068
-^ɔ	ɔ	ɔ⁵³, ɔ³³tai³³	Nameotuyenquang	2	U+005e U+0254
-^ȶ	ȶ	ȶɔŋ⁴⁴ŋoi³³, ȶe³⁵	Nameocaobang	2	U+005e U+0236
-³²$	³²	ljəu³², ta³²	Nameotuyenquang	2	U+00b3 U+00b2 U+0024
-ʑ	ʑ	ta1ʑiu5	Guncen	1	U+0291
-g	g	ta³³goŋ⁵⁵		1	U+0067
-[na⁵⁵]mjau³⁵ɬa⁵³	n a ⁵⁵ + mʲ au³⁵ + ɬ a ⁵³	[na⁵⁵]mjau³⁵ɬa⁵³	Nameotuyenquang	1	U+005b U+006e U+0061 U+2075 U+2075 U+005d U+006d U+006a U+0061 U+0075 U+00b3 U+2075 U+026c U+0061 U+2075 U+00b3
-?$	ʔ	pai⁵³ɕin³³?	Nameotuyenquang	1	U+003f U+0024
-⁰²	⁰/² +	tə⁰²paŋ⁵⁵	NorthernQiandong	1	U+2070 U+00b2
-b	b	la³³baŋ⁵³	Nameotuyenquang	1	U+0062
-⁴⁵³$	⁴⁵³	mɑŋ̃ ⁴⁵³	Nameocaobang	1	U+2074 U+2075 U+00b3 U+0024
-ŋ̃	ŋ̃	mɑŋ̃ ⁴⁵³	Nameocaobang	1	U+014b U+0303
-^j	j	ju³¹ʔ	Nameocaobang	1	U+005e U+006a
-y	y	tjuŋ²⁴njy⁵³	EasternQiandong	1	U+0079
-⁴⁵³	⁴⁵³	tsẽi⁴⁵³mɑ²²	Nameocaobang	1	U+2074 U+2075 U+00b3
-f	f	pu⁴⁴fu¹³	SouthernQiandong	1	U+0066
-^d	d	djɔ³³	Nameotuyenquang	1	U+005e U+0064
-ɐ	ɐ	lɐu³³	Nameocaobang	1	U+0250
-ẽ	ẽ	tsẽi⁴⁵³mɑ²²	Nameocaobang	1	U+1ebd
-m̥	m̥	ɕʰi³³m̥ aŋ⁴⁴	NorthernQiandong	1	U+006d U+0325
-^khw	kʰ w	khwəŋ³³hɛ⁵⁵	Nameotuyenquang	1	U+005e U+006b U+0068 U+0077
-³²	³²	nu³²tɕei⁵⁵kam⁵⁵	Nameotuyenquang	1	U+00b3 U+00b2
-th	th	tau⁵³thəu³³	Nameotuyenquang	1	U+0074 U+0068
-ɿ	ɿ	min²²tsɿ⁴⁴	EasternQiandong	1	U+027f
-kin³³həu⁵⁵,					
-həu⁵⁵than⁵⁵	Nameotuyenquang	1	U+006b U+0069 U+006e U+00b3 U+00b3 U+0068 U+0259 U+0075 U+2075 U+2075 U+002c U+000a U+0068 U+0259 U+0075 U+2075 U+2075 U+0074 U+0068 U+0061 U+006e U+2075 U+2075		
-^ȵ̥	ȵ̥	ȵ̥am⁵³	SouthernQiandong	1	U+005e U+0235 U+0325
-c	c	tcoŋ⁵⁵	Nameotuyenquang	1	U+0063
-^m̥	m̥	m̥ i³⁵	NorthernQiandong	1	U+005e U+006d U+0325
-ts	ts	min²²tsɿ⁴⁴	EasternQiandong	1	U+0074 U+0073
-ɒ	ɒ				
-tsʰ	tsʰ				
-ɦ	ɦ				
-¹²$	¹²				
-⁴²$	⁴²				
-ɤ	ɤ				
-pʰ	pʰ				
-^tsʰ	tsʰ				
-²³$	²³				
-^pʰ	pʰ				
-³⁴$	³⁴				
-³⁴	³⁴ +				
-^w	w				
-tɬ	tɬ				
-^tɬ	tɬ				
+Grapheme	IPA
+^	NULL
+$	NULL
+a	a
+i	i
+u	u
+³³$	³³
+ŋ	ŋ
+³³	³³ +
+e	e
+³⁵$	³⁵
+⁵³$	⁵³
+^t	t
+⁵⁵$	⁵⁵
+n	n
+ə	ə
+ɔ	ɔ
+^p	p
+o	o
+^l	l
+j	j
+⁴⁴$	⁴⁴
+^q	q
+^n	n
+^tɕ	tɕ
+¹³$	¹³
+^k	k
+m	m
+^ɬ	ɬ
+t	t
+ɑ	ɑ
+⁵³	⁵³ +
+ɛ	ɛ
+^m	m
+⁵⁵	⁵⁵ +
+²⁴$	²⁴
+^ȵ	ȵ
+q	q
+²²$	²²
+tɕ	tɕ
+l	l
+^ɣ	ɣ
+¹¹$	¹¹
+p	p
+ɬ	ɬ
+³¹$	³¹
+^s	s
+^ɕ	ɕ
+^ts	ts
+ȵ	ȵ
+^ŋ	ŋ
+ɯ	ɯ
+1$	¹
+^v	v
+³⁵	³⁵ +
+ʔ	ʔ
+^sʰ	sʰ
+^h	h
+^qh	qʰ
+3$	³
+^ʑ	ʑ
+^g	g
+^kh	kʰ
+¹³	¹³ +
+k	k
+⁴⁴	⁴⁴ +
+³¹	³¹ +
+6$	⁶/¹³
+kh	kʰ
+v	v
+^n̥	n̥
+^ɕʰ	ɕʰ
+s	s
+^z	z
+æ	æ
+^u	u
+^a	a
+5$	⁵
+^ʔ	ʔ
+3	³ +
+^f	f
+¹¹	¹¹ +
+8$	⁸/³¹
+h	h
+z	z
+æ̃	æ̃
+1	¹ +
+²⁴¹$	²⁴¹
+sʰ	sʰ
+d	d
+²¹$	²¹
+ʔ$	ʔ ⁰
+4$	⁴
+^qʰ	qʰ
+^ɬʰ	ɬʰ
+²¹²$	²¹²
+ɕ	ɕ
+^th	tʰ
+²⁴	²⁴
+^kw	kʷ
+õ	õ
+²²	²² +
+³⁵⁴$	³⁵⁴
+ɪ	ɪ
+^x	x
+ph	pʰ
+^sh	sʰ
+dʑ	dʑ
+ɣ	ɣ
+²¹	²¹
+2$	²
+^ph	pʰ
+qh	qʰ
+^ɔ	ɔ
+^ȶ	ȶ
+³²$	³²
+ʑ	ʑ
+g	g
+na⁵⁵mjau³⁵ɬa⁵³	mʲ au ³⁵ + ɬ a ⁵³
+?$	ʔ ⁰
+⁰²	⁰/² +
+b	b
+⁴⁵³$	⁴⁵³
+ŋ̃	ŋ̃
+^j	j
+y	y
+⁴⁵³	⁴⁵³
+f	f
+^d	d
+ɐ	ɐ
+ẽ	ẽ
+m̥ 	m̥
+m̥	m̥
+³²	³² +
+th	th
+ɿ	ɿ
+^ȵ̥	ȵ̥
+c	c
+^m̥ 	m̥
+^m̥	m̥
+ts	ts
+ɒ	ɒ
+tsʰ	tsʰ
+ɦ	ɦ
+¹²$	¹²
+⁴²$	⁴²
+ɤ	ɤ
+pʰ	pʰ
+^tsʰ	tsʰ
+²³$	²³
+^pʰ	pʰ
+³⁴$	³⁴
+³⁴	³⁴ +
+^w	w
+tɬ	tɬ
+^tɬ	tɬ
+ɑi	ɑi
+əi	əi
+əu	əu
+oi	oi
+eɯ	eɯ
+ou	ou
+^khw	kʰʷ
+eu	eu
+ai	ai
+ei	ei
+au	au
+ɤu	ɤu
+ɑu	ɑu
+tɦ	tʱ
+sɦ	sʰ
+mj	mʲ
+^sɦ	sʰ
+ua	ua
+ɕɦ	ɕʰ
+õi	õi
+aɯ	aɯ
+əɯ	əɯ
+ui	ui
+dj	dʑ
+tɕh	tɕʰ
+io	io
+zɯ	zʷ
+ẽi	ẽi
+ɐu	ɐu
