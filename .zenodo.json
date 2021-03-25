@@ -5,8 +5,25 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Hsiuh, Andrew"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Mei-Shin Wu",
+            "type": "Other"
+        },
+        {
+            "name": "Hsiuh, Andrew",
+            "type": "DataCollector"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
