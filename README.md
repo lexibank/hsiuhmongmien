@@ -1,7 +1,16 @@
-# hsiuhmongmien
+# CLDF dataset derived from Hsiu's "Classification of Na-Meo" from 2015
+
+Cite the source dataset as
+
+> Hsiu, Andrew (2015): The classification of Na Meo, a Hmong-Mien language of Vietnam. Handout prepared for SEALS 25 (Chiang Mai, 2015/05/27-29).
+
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://sites.google.com/site/msealangs/hmong-mien/na-meo
 
+
+Conceptlists in Concepticon:
+- [Hsiu-2015-315](https://concepticon.clld.org/contributions/Hsiu-2015-315)
 ## Statistics
 
 

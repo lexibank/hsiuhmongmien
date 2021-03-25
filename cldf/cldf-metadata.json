@@ -1,43 +1,48 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Hsiu, Andrew (2015): The classification of Na Meo, a Hmong-Mien language of Vietnam. Handout prepared for SEALS 25 (Chiang Mai, 2015/05/27-29).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Hsiu-2015-315"
+    ],
     "dc:identifier": "https://sites.google.com/site/msealangs/hmong-mien/na-meo",
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "hsiuhmongmien",
+    "dc:title": "CLDF dataset derived from Hsiu's \"Classification of Na-Meo\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/hsiuhmongmien",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
-            "dc:created": "1945324"
+            "dc:created": "764cf3a"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-53-g324a045"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",
