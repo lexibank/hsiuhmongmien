@@ -1,24 +1,21 @@
 from pathlib import Path
 
 import attr
+import pylexibank
 from clldutils.misc import slug
-from pylexibank import Concept, Language
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.forms import FormSpec
-from pylexibank.util import progressbar
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Source = attr.ib(default=None)
     Location = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "hsiuhmongmien"
     language_class = CustomLanguage
-    form_spec = FormSpec(
+    form_spec = pylexibank.FormSpec(
         missing_data=[""],
         separators=";/,",
         brackets={"(": ")", "[": "]"},
@@ -29,9 +26,7 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         args.writer.add_sources()
         # read in data
-        data = self.raw_dir.read_csv(
-            "HM_official.tsv", dicts=True, delimiter="\t", quotechar='"'
-        )
+        data = self.raw_dir.read_csv("HM_official.tsv", dicts=True, delimiter="\t", quotechar='"')
         # add languages
         languages = args.writer.add_languages(lookup_factory="Name")
         sources = {l["Name"]: l["Source"] for l in self.languages}
@@ -48,7 +43,7 @@ class Dataset(BaseDataset):
             )
             concepts[concept.english] = idx
         # create forms
-        for cogid_, entry in progressbar(
+        for cogid_, entry in pylexibank.progressbar(
             enumerate(data), desc="cldfify the data", total=len(data)
         ):
             cogid = cogid_ + 1
@@ -61,4 +56,3 @@ class Dataset(BaseDataset):
                     Source=sources[language],
                 ):
                     args.writer.add_cognate(lexeme=row, Cognateset_ID=cogid)
-
