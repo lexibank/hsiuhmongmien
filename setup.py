@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 
 setup(
@@ -11,5 +11,6 @@ setup(
         "cldfbench.commands": ["hsiuhmongmien=hsiuhmongmiencommands"],
     },
     install_requires=["pylexibank>=3.0"],
+    packages=find_packages(where="."),
     extras_require={"test": ["pytest-cldf"]},
 )
