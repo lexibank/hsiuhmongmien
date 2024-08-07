@@ -17,7 +17,7 @@ class Dataset(pylexibank.Dataset):
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(
         missing_data=[""],
-        separators=";/,",
+        separators=";,",
         brackets={"(": ")", "[": "]"},
         strip_inside_brackets=True,
         first_form_only=True,
