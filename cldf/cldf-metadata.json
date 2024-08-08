@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/hsiuhmongmien",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-gd55b256",
+            "dc:created": "v1.0-2-g20a218c",
             "dc:title": "Repository"
         },
         {

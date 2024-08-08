@@ -18,7 +18,7 @@ class Dataset(pylexibank.Dataset):
     writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = pylexibank.FormSpec(
         missing_data=[""],
-        separators=";/,",
+        separators=";,",
         brackets={"(": ")", "[": "]"},
         strip_inside_brackets=True,
         first_form_only=True,
